@@ -2653,8 +2653,8 @@ public class TaskBuilder {
         Task task880 = new Task(880, "Name1: Im Restaurant: bei 50€ Rechnung und gutem Service, wie viel Trinkgeld würdest du geben? Pro Euro 1 trinken (max 10)", false);
         tasks.add(task880);
 
-        Task task880 = new Task(880, "Name1: Im Restaurant: bei 40€ Rechnung und gutem Service, wie viel Trinkgeld würdest du geben? Pro Euro 1 verteilen (max 10)", false);
-        tasks.add(task880);
+        //Task task880 = new Task(880, "Name1: Im Restaurant: bei 40€ Rechnung und gutem Service, wie viel Trinkgeld würdest du geben? Pro Euro 1 verteilen (max 10)", false);
+        //tasks.add(task880);
 
         Task task881 = new Task(881, "Name1: Im Restaurant: bei 50€ Rechnung und gutem Service, wie viel Trinkgeld würdest du geben? Pro Euro 1 verteilen (max 10)", false);
         tasks.add(task881);
@@ -2956,8 +2956,8 @@ public class TaskBuilder {
         Task task980 = new Task(980, "default", false);
         tasks.add(task980);
 
-        Task task980 = new Task(980, "default", false);
-        tasks.add(task980);
+        //Task task980 = new Task(980, "default", false);
+        //tasks.add(task980);
 
         Task task981 = new Task(981, "default", false);
         tasks.add(task981);
@@ -3013,7 +3013,7 @@ public class TaskBuilder {
         Task task998 = new Task(998, "default", false);
         tasks.add(task998);
 
-        /**
+        /**f
          * Tasks for deactivate a current active rule
          */
         Task task10008 = new Task(10008, "REGELAUFLÖSUNG \n Es darf wieder auf andere Leute gezeigt werden.", false);
