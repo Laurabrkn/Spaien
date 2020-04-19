@@ -190,37 +190,37 @@ public class TaskBuilder {
         Task task59 = new Task(59, "REGEL \n Alle müssen mit beiden Handflächen ihren Kopf berühren. Ausnahme: zum trinken.", true);
         tasks.add(task59) ;
 
-        Task task60 = new Task(60, "Stimmt ab, wer die dümmste und die schlauste Person ist. Der Schlauste trinkt 5 Schlucke und der Dümmste verteilt 5 Schlucke.", false);
+        Task task60 = new Task(60, "Stimmt ab! Werist die dümmste und wer die schlauste Person hier?. Der Schlauste trinkt 5 Schlucke und der Dümmste verteilt 5 Schlucke.", false);
         tasks.add(task60) ;
 
-        Task task61 = new Task(61, "Nennt Länder der europäischen Union. Name1 beginnt.", false);
+        Task task61 = new Task(61, "Nennt Länder der Europäischen Union. Name1 beginnt.", false);
         tasks.add(task61) ;
 
-        Task task62 = new Task(62, "Nennt makeup Marken. Name1 beginnt.", false);
+        Task task62 = new Task(62, "Nennt Makeup Marken. Name1 beginnt.", false);
         tasks.add(task62) ;
 
-        Task task63 = new Task(63, "Wählt unter den Mitspielern zwei Leute aus… Die beiden ausgewählten Personen müssen sich entweder küssen, oder ihr Glas exen.", false);
+        Task task63 = new Task(63, "Wählt unter den Mitspielern zwei Leute aus. Die beiden ausgewählten Personen müssen sich entweder küssen, oder ihr Glas exen.", false);
         tasks.add(task63) ;
 
-        Task task64 = new Task(64, "Alle mit Heimatdörfern unter 7000 Einwohner trinken 3 Schlucke .", false);
+        Task task64 = new Task(64, "Alle mit Heimatdörfern unter 7000 Einwohner trinken 3 Schlucke.", false);
         tasks.add(task64) ;
 
-        Task task65 = new Task(65, "Alle, die schonmal aus einem Club/Kneipe geflogen sind, trinken 4 Schlucke.", false);
+        Task task65 = new Task(65, "Alle, die schon mal aus einem Club/Kneipe geflogen sind, trinken 4 Schlucke.", false);
         tasks.add(task65) ;
 
-        Task task66 = new Task(66, "Name1: Wer ist heute  besser gekleidet: Name2 oder Name3? Die gewählte Person verteilt 5 Schlucke.", false);
+        Task task66 = new Task(66, "Name1: Wer ist heute besser gekleidet: Name2 oder Name3? Die gewählte Person verteilt 5 Schlucke.", false);
         tasks.add(task66) ;
 
-        Task task67 = new Task(67, "Alle, die schonmal bei einer roten Ampel stehen geblieben sind, trinken 2 Schlucke.", false);
+        Task task67 = new Task(67, "Alle, die schonmal bei einer roten Ampel stehen geblieben sind trinken 2 Schlucke.", false);
         tasks.add(task67) ;
 
-        Task task68 = new Task(68, "Alle, die schon einmal nachsitzen mussten, trinken 2 Schlucke.", false);
+        Task task68 = new Task(68, "Alle, die schon einmal nachsitzen mussten trinken 2 Schlucke.", false);
         tasks.add(task68) ;
 
-        Task task69 = new Task(69, "Name1: Wer ist heute  besser gekleidet: Name2 oder Name3? Die gewählte Person trinkt 4 Schlucke.", false);
+        Task task69 = new Task(69, "Name1: Wer ist heute besser gekleidet: Name2 oder Name3? Die gewählte Person trinkt 4 Schlucke.", false);
         tasks.add(task69) ;
 
-        Task task70 = new Task(70, "Alle, die schonmal bei einem Festival in einem anderen Zelt aufgewacht sind, trinken 3 Schlucke.", false);
+        Task task70 = new Task(70, "Alle, die schon mal bei einem Festival in einem anderen Zelt aufgewacht sind, trinken 3 Schlucke.", false);
         tasks.add(task70) ;
 
         Task task71 = new Task(71, "Alle, die schon mal auf einem Festival in einem Sani-Zelt behandelt werden mussten, trinken 3 Schlucke.", false);
@@ -2740,7 +2740,7 @@ public class TaskBuilder {
         Task task908 = new Task(908, "Name1: Pro Stern, den du SPAIEN jetzt im Appstore gibst, darfst du 1 Schluck verteilen. Schon bewertet: 5 verteilen.", false);
         tasks.add(task908);
 
-        Task task909 = new Task(909, "default", false);
+        Task task909 = new Task(909, "Name1 und Name2 dürfen so viele Schlucke verteilen wie sie Geschwister haben", false);
         tasks.add(task909);
 
         Task task910 = new Task(910, "default", false);
