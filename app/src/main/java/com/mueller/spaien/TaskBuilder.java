@@ -247,7 +247,7 @@ public class TaskBuilder {
         Task task78 = new Task(78, "Name1 trinkt 5 Schlucke. Dein rechter Sitznachbar trinkt einen Schluck weniger usw. bis ihr bei 0 angekommen seid.", false);
         tasks.add(task78) ;
 
-        Task task79 = new Task(79, "Alle, die schon mal am Meer waren, trinken 2 Schlucke.", false);
+        Task task79 = new Task(79, "Alle, die schon mal am Meer waren trinken 2 Schlucke.", false);
         tasks.add(task79) ;
 
         Task task80 = new Task(80, "Name1: Erstelle eine Rangliste der Mitspielenden für ein Thema, dass Name2 aussucht. Jeder trinkt seinen Rang in Schlucken.", false);
@@ -271,16 +271,16 @@ public class TaskBuilder {
         Task task86 = new Task(86, "Nennt Minderheiten. Name1 beginnt.", false);
         tasks.add(task86) ;
 
-        Task task87 = new Task(87, "Alle Studienabbrecher verteilen pro abgebrochenes Studium 4 Schlucke.", false);
+        Task task87 = new Task(87, "Alle Studienabbrecher verteilen pro abgebrochenem Studium 3 Schlucke.", false);
         tasks.add(task87) ;
 
-        Task task88 = new Task(88, "Alle, die schon mal die Pille danach genommen haben, trinken 3 Schlucke.", false);
+        Task task88 = new Task(88, "Alle, die schon mal die Pille danach genommen haben trinken 3 Schlucke.", false);
         tasks.add(task88) ;
 
-        Task task89 = new Task(89, "Alle, die schon mal eine Hausarbeit geschrieben haben, trinken 3 Schlucke.", false);
+        Task task89 = new Task(89, "Alle, die schon mal eine Hausarbeit geschrieben haben trinken 3 Schlucke.", false);
         tasks.add(task89) ;
 
-        Task task90 = new Task(90, "Alle, die ein iPhone haben, trinken 4 Schlucke.", false);
+        Task task90 = new Task(90, "Alle, die ein iPhone haben trinken 4 Schlucke.", false);
         tasks.add(task90) ;
 
         Task task91 = new Task(91, "Nennt Landkreise in Ostfriesland. Name1 beginnt.", false);
@@ -295,10 +295,10 @@ public class TaskBuilder {
         Task task94 = new Task(94, "Alle Menschen, die single sind, trinken 3 Schlucke.", false);
         tasks.add(task94) ;
 
-        Task task95 = new Task(95, "Alle, die schonmal freiwillig in einer Kunstaustellung/ im Museum waren, verteilen 8 Schlucke.", false);
+        Task task95 = new Task(95, "Alle, die schonmal freiwillig in einer Kunstaustellung/ im Museum waren, verteilen 3 Schlucke.", false);
         tasks.add(task95) ;
 
-        Task task96 = new Task(96, "Name1 summt die Melodie eines beliebigen Songs. Wer ihn zuerst errät verteilt 8 Schlucke.", false);
+        Task task96 = new Task(96, "Name1 summt die Melodie eines beliebigen Songs. Wer ihn zuerst errät verteilt 5 Schlucke.", false);
         tasks.add(task96) ;
 
         Task task97 = new Task(97, "REGEL \n Ab jetzt wird sich nur noch gesiezt!", true);
@@ -307,10 +307,10 @@ public class TaskBuilder {
         Task task98 = new Task(98, "REGEL \n Name1 darf ab jetzt nur noch ohne Hände trinken.", true);
         tasks.add(task98) ;
 
-        Task task99 = new Task(99, "Name1 lässt sich von Name2 eine Backpfeife geben, oder ext sein Glas.", false);
+        Task task99 = new Task(99, "Name1 lässt sich von Name2 eine Backpfeife geben, oder ext sein/ihr Glas.", false);
         tasks.add(task99) ;
 
-        Task task100 = new Task(100, "Alle, die schonmal ums Ottermeer gejoggt sind, trinken 2 Schlucke.", false);
+        Task task100 = new Task(100, "Alle die schon mal mehr als 12km am Stück gejoggt sind verteilen 3 Schlucke", false);
         tasks.add(task100) ;
 
         Task task101 = new Task(101, "Alle Mitspielenden, welche Name1 schon Mal auf den Mund geküsst haben, trinken 3 Schlucke.", false);
@@ -319,43 +319,43 @@ public class TaskBuilder {
         Task task102 = new Task(102, "Kaugummi oder Fisherman`s Friend? Stimmt ab. Die Verlierer trinkt 2 Schlucke.", false);
         tasks.add(task102) ;
 
-        Task task103 = new Task(103, "Name1 muss für jede Wein- und Bierflasche auf dem Tisch 1 Schluck trinken. Wenn keine da sind darf sie 5 Schlucke verteilen.", false);
+        Task task103 = new Task(103, "Name1 muss für jede Wein- und Bierflasche auf dem Tisch 1 Schluck trinken. Wenn keine da sind darf Name1 5 Schlucke verteilen.", false);
         tasks.add(task103) ;
 
         Task task104 = new Task(104, "SHOT für den/die Jüngste/n.", false);
         tasks.add(task104) ;
 
-        Task task105 = new Task(105, "Name1 trinkt 2 Schlucke, weil er/sie es kann.", false);
+        Task task105 = new Task(105, "Name1 trinkt 2 Schlucke, weil Name1 es nötig hat.", false);
         tasks.add(task105) ;
 
-        Task task106 = new Task(106, "Name1 muss pro Karte im Portemonnaie (Bankkarte, Perso, Führerschein, etc.) 1 Schluck trinken", false);
+        Task task106 = new Task(106, "Name1 muss pro Karte im Portemonnaie (Bankkarte, Perso, Führerschein, etc.) 1 Schluck trinken.", false);
         tasks.add(task106) ;
 
-        Task task107 = new Task(107, "Name1 darf pro 1-Cent-Stück im Portmonnaie 2 Schlucke verteilen", false);
+        Task task107 = new Task(107, "Name1 darf pro 1-Cent-Stück im Portmonnaie 2 Schlucke verteilen.", false);
         tasks.add(task107) ;
 
         Task task108 = new Task(108, "Alle, die Socken tragen welche NICHT Schwarz oder weiß sind, verteilen 5 Schlucke.", false);
         tasks.add(task108) ;
 
-        Task task109 = new Task(109, "Nennt Minister inkl. ihrer Ministerien der aktuellen Bundesregierung. Name1 fängt an.", false);
+        Task task109 = new Task(109, "Nennt Minister inkl. ihrer Ministerien der aktuellen Bundesregierung. Name1 beginnt.", false);
         tasks.add(task109) ;
 
         Task task110 = new Task(110, "Name1 singt ein Lied seiner/ihrer Wahl, oder ext sein/ihr Glas.", false);
         tasks.add(task110) ;
 
-        Task task111 = new Task(111, "Jeder, der schon Mal beim Aurich Cup war trinkt.", false);
+        Task task111 = new Task(111, "Name1, Name2 und Name3 dürfen je pro besuchtem Kontinent 1 Schluck verteilen.", false);
         tasks.add(task111) ;
 
         Task task112 = new Task(112, "Jeder der denkt, dass Tobias Simmering ein unfassbar geiler Kerl ist, trinkt so viel er möchte.", false);
         tasks.add(task112) ;
 
-        Task task113 = new Task(113, "Der/Die Gastgeber/in darf 1 Shot verteilen.", false);
+        Task task113 = new Task(113, "Der/Die Gastgeber/in darf 2 Shots verteilen.", false);
         tasks.add(task113) ;
 
         Task task114 = new Task(114, "Name1 darf für jede Wein- und Bierflasche auf dem Tisch 1 Schluck verteilen. Wenn keine da sind muss sie 5 Schlucke trinken.", false);
         tasks.add(task114) ;
 
-        Task task115 = new Task(115, "Name1 erklärt einen Begriff, den Name2 aussucht. War sie kreativ/richtig darf der Erklärende 8 Schlucke verteilen, ansonsten muss er/sie sein/ihr Glas exen.", false);
+        Task task115 = new Task(115, "Name1 und Name2: Verteilt pro Bundesland, in welchem ihr dieses Jahr schon eine Nacht verbracht habt einen Schluck.", false);
         tasks.add(task115) ;
 
         Task task116 = new Task(116, "Alle Menschen in Hemd/Bluse trinken 2 Schlucke.", false);
@@ -364,13 +364,13 @@ public class TaskBuilder {
         Task task117 = new Task(117, "Alle Mitspieler, die schon Mal einen Menschen des gleichen Geschlechts geküsst haben, trinken 2 Schlucke.", false);
         tasks.add(task117) ;
 
-        Task task118 = new Task(118, "Der/die Älteste verteilt die Hälfte seines/ihres Alters an Schlucke.", false);
+        Task task118 = new Task(118, "Der/die Älteste verteilt ein Viertel seines/ihres Alters an Schlucken.", false);
         tasks.add(task118) ;
 
-        Task task119 = new Task(119, "Nennt Tiere mit Rüssel. Name1 fängt an.", false);
+        Task task119 = new Task(119, "Nennt Tiere mit Rüssel. Name1 beginnt.", false);
         tasks.add(task119) ;
 
-        Task task120 = new Task(120, "Nennt Ostfriesische Inseln. Name1 fängt an.", false);
+        Task task120 = new Task(120, "Nennt Ostfriesische Inseln. Name1 beginnt.", false);
         tasks.add(task120) ;
 
         Task task121 = new Task(121,  "Wählt den/die Unsportlichste/n. Er/sie darf so viele Schlucke verteilen, wie er/sie Liegestütze vorführt.", false);
@@ -379,19 +379,19 @@ public class TaskBuilder {
         Task task122 = new Task(122,  "Die Person, die als letztes ihre Hand auf dem Bein von Name1 hat, trinkt 4 Schlucke.", false);
         tasks.add(task122) ;
 
-        Task task123 = new Task(123,  "Wer von den Mitspielern hat die attraktivste Mutter/Vater. Stimmt ab. Das Kind von der gewählten Person trinkt 2 Schlucke.", false);
+        Task task123 = new Task(123,  "Stimmt ab! Wer hat den/die attraktivste/n Mutter/Vater. Das Kind der gewählten Person trinkt 3 Schlucke.", false);
         tasks.add(task123) ;
 
-        Task task124 = new Task(124,  "Alle, die bei der letzten Bundestags-,Landtags-, oder Kommunalwahl nicht gewählt haben trinken 8 Schlucke und schämen sich.", false);
+        Task task124 = new Task(124,  "Alle, die bei der letzten Bundestags-,Landtags-, Kommunal-, oder Europawahlen nicht gewählt haben trinken 8 Schlucke und schämen sich.", false);
         tasks.add(task124) ;
 
-        Task task125 = new Task(125,  "Nennt Monate im Jahr. Name1 fängt an.", false);
+        Task task125 = new Task(125,  "Nennt Monate im Jahr. Name1 beginnt.", false);
         tasks.add(task125) ;
 
         Task task126 = new Task(126,  "Alle, die schon Mal in Finnland waren dürfen 5 Schlucke verteilen.", false);
         tasks.add(task126) ;
 
-        Task task127 = new Task(127,  "Die Person, die als letztes ihre Hand auf dem Kopf von Name1 hat, trinkt 4 Schlucke.", false);
+        Task task127 = new Task(127,  "Die Person, die als letztes ihre Hand auf dem Kopf von Name1 hat trinkt 4 Schlucke.", false);
         tasks.add(task127) ;
 
         Task task128 = new Task(128,  "Name1, lass dir von Name2 ein Getränk seiner/ihrer Wahl mischen, oder exe dein Glas", false);
@@ -409,7 +409,7 @@ public class TaskBuilder {
         Task task132 = new Task(132,  "Name1 und Name2: Wer bekommt es schneller hin ein Obst/Gemüse zu schälen, welches gerade zur Hand ist? Der Gewinner darf 7 Schlucke verteilen.", false);
         tasks.add(task132) ;
 
-        Task task133 = new Task(133,  "Name1 benimmt sich für 2 Minuten so wie Name2.", false);
+        Task task133 = new Task(133,  "Die Person mit dem größten Bizeps verteilt 4 Schlucke.", false);
         tasks.add(task133) ;
 
         Task task134 = new Task(134,  "Name1 und Name2: Spielt Tip Top im Raum. der Gewinner darf 5 Schlucke verteilen.", false);
@@ -430,7 +430,7 @@ public class TaskBuilder {
         Task task139 = new Task(139,  "Name1 und Name2: Kopf oder Zahl? Name3 wirft. Der Verlierer trinkt 5 Schlucke.", false);
         tasks.add(task139) ;
 
-        Task task140 = new Task(140,  "Name1: Suche dir ein Produkt bei Amazon aus und ließ nur den Titel vor. Alle schätzen den Preis. Name2 beginnt. Wer dem richtigen Preis am nähesten ist verteilt 6 Schlucke.", false);
+        Task task140 = new Task(140,  "Schätzt den Preis eines Produktes auf Amazon, welches sich Name1 aussucht. Die Person die am nähesten dran ist verteilt 6 Schlucke.", false);
         tasks.add(task140);
 
         Task task141 = new Task(141,  "Der Gamemaster trinkt 2 Schlucke.", false);
@@ -445,13 +445,13 @@ public class TaskBuilder {
         Task task144 = new Task(144,  "Nennt Trinksprüche. Name1 beginnt.", false);
         tasks.add(task144);
 
-        Task task145 = new Task(145,  "Nennt Städte in Ostfriesland mit über 20.000 Einwohnern. Der Gamemaster darf überprüfen. Name1 fängt an.", false);
+        Task task145 = new Task(145,  "Nennt Städte in Ostfriesland mit über 20.000 Einwohnern. Name1 beginnt.", false);
         tasks.add(task145);
 
-        Task task146 = new Task(146,  "Nennt ganze Zahlen von 1 bis 5. Name1 beginnt. (Jeder trinkt die von ihm genannte Zahl in Schlucken.)", false);
+        Task task146 = new Task(146,  "Nennt ganze Zahlen von 1 bis 5. Name1 beginnt. (Jeder trinkt die von ihm genannte Zahl in Schlucken)", false);
         tasks.add(task146);
 
-        Task task147 = new Task(147,  "Name1 hat 1 Minute Zeit Name2 zum Lachen zu bringen. Gelingt das, darf er/sie 10 Schlucke verteilen. Falls nicht werden 5 Schlucke selbst getrunken.", false);
+        Task task147 = new Task(147,  "Name1 hat 1 Minute Zeit Name2 zum Lachen zu bringen. Gelingt das, darf er/sie 6 Schlucke verteilen. Falls nicht: 5 selbst", false);
         tasks.add(task147);
 
         Task task148 = new Task(148,  "Bottleflip! Name1 hat 3 Versuche eine Plastikflasche mit einer Drehung im Wurf zum Stehen zu bringen. Gelingt das: 10 Schlucke verteilen. wenn nicht 8 Schlucke selbst.", false);
@@ -460,13 +460,13 @@ public class TaskBuilder {
         Task task149 = new Task(149,  "Jeder der ein Taschentuch dabei hat verteilt 2 Schlucke.", false);
         tasks.add(task149);
 
-        Task task150 = new Task(150,  "Nennt Lampengeschäfte in Wiesmoor. Name1 beginnt.", false);
+        Task task150 = new Task(150,  "Nennt Lampengeschäfte. Name1 beginnt.", false);
         tasks.add(task150);
 
-        Task task151 = new Task(151,  "Nennt ganze Zahlen von 1 bis 5. Name1 beginnt. (Jeder verteilt die von ihm genannte  Zahl an Schlucken.)", false);
+        Task task151 = new Task(151,  "Nennt ganze Zahlen von 1 bis 5. Name1 beginnt. (Jeder verteilt die von ihm genannte Zahl an Schlucken)", false);
         tasks.add(task151);
 
-        Task task152 = new Task(152,  "Wählt die am schlechtesten gekleidetste Person im Raum. Er/sie darf 10 verteilen. ", false);
+        Task task152 = new Task(152,  "Wählt die am schlechtesten gekleidetste Person im Raum. Er/sie darf 7 verteilen. ", false);
         tasks.add(task152);
 
         Task task153 = new Task(153,  "Name1: Ziehe nach Sachsen, oder trinke 3 Schlucke.", false);
@@ -490,10 +490,10 @@ public class TaskBuilder {
         Task task159 = new Task(159,  "Trinkt für jedes Zwillingspaar welches ihr kennt 1 Schluck.", false);
         tasks.add(task159);
 
-        Task task160 = new Task(160,  "Alle, die schon mal eine Glatze gestreichelt haben trinken 4 Schlucke.", false);
+        Task task160 = new Task(160,  "Alle, die schon mal eine Glatze gestreichelt haben trinken 3 Schlucke.", false);
         tasks.add(task160);
 
-        Task task161 = new Task(161,  "Alle, die in der Bibliothek schon einmal den Sinn ihrer Existenz hinterfragt haben, trinken 4 Schlucke.", false);
+        Task task161 = new Task(161,  "Alle, die in der Bibliothek schon einmal den Sinn ihrer Existenz hinterfragt haben, trinken 3 Schlucke.", false);
         tasks.add(task161);
 
         Task task162 = new Task(162,  "Name1 sucht sich einen Trinkbuddy aus.", false);
@@ -508,7 +508,7 @@ public class TaskBuilder {
         Task task165 = new Task(165,  "Alle, die ihren Ex hassen, oder wirklich nicht mögen, trinken 2 Schlucke.", false);
         tasks.add(task165);
 
-        Task task166 = new Task(166,  "Name1: Suche dir ein Produkt bei Amazon aus und ließ nur den Titel vor. Alle schätzen den Preis. Name2 beginnt. Wer dem richtigen Preis am nähesten ist verteilt 6 Schlucke.", false);
+        Task task166 = new Task(166,  "Schätzt den Preis eines Produktes auf Amazon, welches sich Name1 aussucht. Die Person die am nähesten dran ist verteilt 6 Schlucke.", false);
         tasks.add(task166);
 
         Task task167 = new Task(167,  "Shots!", false);
@@ -517,10 +517,10 @@ public class TaskBuilder {
         Task task168 = new Task(168,  "Alle, die mit ihrem Ex befreundet sind, trinken 2 Schlucke.", false);
         tasks.add(task168);
 
-        Task task169 = new Task(169,  "Name1 ext sein Glas.", false);
+        Task task169 = new Task(169,  "Name1 ex!", false);
         tasks.add(task169);
 
-        Task task170 = new Task(170,  "Name1 ext sein Glas.", false);
+        Task task170 = new Task(170,  "Name1 ex!", false);
         tasks.add(task170);
 
         Task task171 = new Task(171,  "Alle deren Handy Display heile ist, trinken.", false);
@@ -607,7 +607,7 @@ public class TaskBuilder {
         Task task198 = new Task(198,  "Jeder darf so viele Schlucke verteilen, wie er/sie in diesem Jahr in der Kirche war. ", false);
         tasks.add(task198);
 
-        Task task199 = new Task(199, "Name1 und Name2 verteilen die Anzahl an 2 Euro Münzen die sie jeweils dabei haben.", false);
+        Task task199 = new Task(199,  "Name1 und Name2 verteilen die Anzahl an 2 Euro Münzen die sie jeweils dabei haben.", false);
         tasks.add(task199);
 
         Task task200 = new Task(200, "Name1, Name2 und Name3: Trinkt die Anzahl an Zigaretten die ihr gerade dabei habt in Schlücken. (Max. 8)", false);
@@ -616,13 +616,13 @@ public class TaskBuilder {
         Task task201 = new Task(201, "GIRLPOWER! Alle Damen trinken 3 Schlucke.", false);
         tasks.add(task201);
 
-        Task task202 = new Task(202, "EMANZIPATION! Alle Damen trinken einen Kurzen.", false);
+        Task task202 = new Task(202, "EMANZIPATION! Alle Damen trinken einen Shot.", false);
         tasks.add(task202);
 
         Task task203 = new Task(203, "Wählt den/das größte/n Fuckboy/girl im Raum. Er/Sie trinkt 5 Schlucke.", false);
         tasks.add(task203);
 
-        Task task204 = new Task(204, "Wie viele Bücher hat Name1 diese Jahr gelesen? So viele Schlücke darf er/sie verteilen.", false);
+        Task task204 = new Task(204, "Name1: Wie viele Bücher hast du dieses Jahr gelesen? Pro Buch ein Schluck verteilen", false);
         tasks.add(task204);
 
         Task task205 = new Task(205, "Name1: Mit wem würdest du am ehesten einen Dreier haben wollen? Mit Name2 und Name3, oder mit Name4 und Name5? Die gewählten Personen verteilen je 5 Schlucke", false);
@@ -640,28 +640,28 @@ public class TaskBuilder {
         Task task209 = new Task(209, "Trinke, wenn du schon mal etwas mit jemandem hattest, der/die älter war als du.", false);
         tasks.add(task209);
 
-        Task task210 = new Task(210, "Nennt Angeklagte der Nürnberger Prozesse. Name1 fängt an. Wer keinen mehr kennt trinkt.", false);
+        Task task210 = new Task(210, "Nennt Angeklagte der Nürnberger Prozesse. Name1 beginnt.", false);
         tasks.add(task210);
 
-        Task task211 = new Task(211, "Nennt Bundestagsabgeordnete der SPD. Name1 fängt an. Wer keinen mehr kennt trinkt.", false);
+        Task task211 = new Task(211, "Nennt Bundestagsabgeordnete der SPD. Name1 beginnt.", false);
         tasks.add(task211);
 
-        Task task212 = new Task(212, "Name1 muss innerhalb von 90 Sekunden `Bundesinnenministerium´ rückwärts buchstabieren.", false);
+        Task task212 = new Task(212, "Name1 muss innerhalb von 90 Sekunden `Bundesinnenministerium´ rückwärts buchstabieren. Geschafft: 5 verteilen. Nicht: 4 selbst.", false);
         tasks.add(task212);
 
-        Task task213 = new Task(213, "Stimmt ab wer der beste Mensch im Raum ist. Er/Sie darf 10 Schlucke verteilen.", false);
+        Task task213 = new Task(213, "Stimmt ab! Wer ist der beste Mensch im Raum. Er/Sie darf 8 Schlucke verteilen.", false);
         tasks.add(task213);
 
-        Task task214 = new Task(214, "Nennt die Schöpfer dieser App. Name1 fängt an. Wer keinen mehr kennt trinkt.", false);
+        Task task214 = new Task(214, "Nennt die Schöpfenden dieser App. Name1 beginnt.", false);
         tasks.add(task214);
 
-        Task task215 = new Task(215, "Name1! Die Kinder in Afrika haben gar nichts zu trinken, also ex!", false);
+        Task task215 = new Task(215, "Name1! Dürresaison! EX!", false);
         tasks.add(task215);
 
-        Task task216 = new Task(216, "Name1: Trinke für jeden Stuhl im Raum 1 Schluck", false);
+        Task task216 = new Task(216, "Name1: Trinke für jeden Stuhl im Raum 1 Schluck. (Max. 8)", false);
         tasks.add(task216);
 
-        Task task217 = new Task(217, "Trinkt für jede Leuchte im Raum 2 Schlucke", false);
+        Task task217 = new Task(217, "Trinkt für jede Leuchte im Raum 2 Schlucke (Max. 8)", false);
         tasks.add(task217);
 
         Task task218 = new Task(218, "Wer kann am besten wie ein Hund bellen? Bellt und stimmt ab. Der/Die Gewinner/in verteilt 8 Schlucke.", false);
@@ -682,10 +682,10 @@ public class TaskBuilder {
         Task task223 = new Task(223, "Korn oder Korn? Stimmt ab. Alle trinken.", false);
         tasks.add(task223);
 
-        Task task224 = new Task(224, "Name1: Poste ein Nacktbild von dir bei Instagram oder ähnlichem, oder trinke 3 Schlucke", false);
+        Task task224 = new Task(224, "Name1: Poste ein Nacktbild von dir bei Instagram oder so, oder trinke 3 Schlucke", false);
         tasks.add(task224);
 
-        Task task225 = new Task(225, "Name1: Poste ein Nacktbild von dir bei Instagram oder ähnlichem, oder trinke 3 Schlucke", false);
+        Task task225 = new Task(225, "Name1: Poste ein Nacktbild von dir bei Instagram oder so, oder trinke 3 Schlucke", false);
         tasks.add(task225);
 
         Task task226 = new Task(226, "Name1: Zerreisse ein DinA4 Blatt in der Mitte. Für jedes Mal, dass du es vorher in der Mitte gefaltet hast, darfst du 1 Schluck verteilen. 1 Versuch.", false);
@@ -703,28 +703,28 @@ public class TaskBuilder {
         Task task230 = new Task(230, "Name1: Aus wie vielen Testamenten besteht die Bibel? So viele Schlucke darfst du verteilen.", false);
         tasks.add(task230);
 
-        Task task231 = new Task(231, "Alle die heute mit dem Rad gefahren sind verteilen 4 Schlucke.", false);
+        Task task231 = new Task(231, "Alle die heute mit dem Rad gefahren sind verteilen 3 Schlucke.", false);
         tasks.add(task231);
 
         Task task232 = new Task(232, "Name1 denkt an eine Zahl. Wer am nächsten dran ist darf 10 Schlucke verteilen. Name2 fängt an.", false);
         tasks.add(task232);
 
-        Task task233 = new Task(233, "Name1 beatboxt und Name2 freestyled dazu. Stimmt ab ob das gut war. Wenn ja dürfen beide 8 Schlucke verteilen. Wenn nein müssen beide 5 Schlucke trinken.", false);
+        Task task233 = new Task(233, "Pro Ikea Möbelstück im Raum muss Name1 1 Schluck trinken (Max. 6)", false);
         tasks.add(task233);
 
-        Task task234 = new Task(234, "Nennt Musiker der aktuellen Charts Top 20. Name1 fängt an. Wer keinen mehr kennt kann sich glücklich schätzen und 4 Schlucke trinken.", false);
+        Task task234 = new Task(234, "Pro Ikea Möbelstück im Raum darf Name1 1 Schluck verteilen (Max. 8)", false);
         tasks.add(task234);
 
-        Task task235 = new Task(235, "Farben der polnischen Nationalflagge. Name1 fängt an.", false);
+        Task task235 = new Task(235, "Nennt Farben der polnischen Flagge. Name1 beginnt.", false);
         tasks.add(task235);
 
-        Task task236 = new Task(236, "Wählt die Person im Raum mit dem meisten Niveau. Er/Sie verteilt 10 Schlucke.", false);
+        Task task236 = new Task(236, "Wählt die Person im Raum mit dem meisten Niveau. Er/Sie verteilt 8 Schlucke.", false);
         tasks.add(task236);
 
-        Task task237 = new Task(237, "Nennt Europäische Hauptstädte. Name1 fängt an.", false);
+        Task task237 = new Task(237, "Nennt Europäische Hauptstädte. Name1 beginnt.", false);
         tasks.add(task237);
 
-        Task task238 = new Task(238, "Wer kann am höchsten springen? Name1 beurteilt. Wer gewinnt draf 8 Schlucke verteilen. Wer gar nicht springt trinkt 2 Schlucke.", false);
+        Task task238 = new Task(238, "Wer kann am höchsten springen? Name1 beurteilt. Wer gewinnt draf 6 Schlucke verteilen. Wer gar nicht springt trinkt 2 Schlucke.", false);
         tasks.add(task238);
 
         Task task239 = new Task(239, "Name1 darf 5 Schlucke verteilen.", false);
@@ -769,31 +769,31 @@ public class TaskBuilder {
         Task task252 = new Task(252, "Name1: Errate 3 der letzten 5 Leute mit denen Name2 auf WhatsApp geschrieben hat. Wenn du es nichts schaffst trinke 4 Schlucke.", false);
         tasks.add(task252);
 
-        Task task253 = new Task(253, "Nennt alle US-Staaten in denen ein `O´ im Namen vorkommt. Name1 beginnt. Wer keinen mehr kennt trinkt 3 Schlucke.", false);
+        Task task253 = new Task(253, "Nennt alle US-Staaten mit `O´. Name1 beginnt.", false);
         tasks.add(task253);
 
-        Task task254 = new Task(254, "Nennt Tiere mit Euter. Name1 beginnt. Wer keins mehr kennt trinkt 2 Schlucke.", false);
+        Task task254 = new Task(254, "Nennt Tiere mit Euter. Name1 beginnt.", false);
         tasks.add(task254);
 
         Task task255 = new Task(255, "Name1: Würfel 3 Mal mit 5 Würfeln. Für jede gleiche Augenzahl darfst du 2 Schlücke verteilen.", false);
         tasks.add(task255);
 
-        Task task256 = new Task(256, "Name1 buchstabiere `Neighborhood´ in 60 Sekunden. Wenn du es nicht schaffst musst du 2 Schlucke trinken. Wenn wohl verteile 6 Schlucke.", false);
+        Task task256 = new Task(256, "Name1 buchstabiere `Neighborhood´ in 60 Sekunden. Geschaft: 6 verteilen. Nicht: Trinke 2.", false);
         tasks.add(task256);
 
-        Task task257 = new Task(257, "Name1 buchstabiere `Rückgrat´ in 60 Sekunden. Wenn du es nicht schaffst musst du 2 Schlucke trinken. Wenn wohl verteile 6 Schlucke.", false);
+        Task task257 = new Task(257, "Name1 buchstabiere `Rückgrat´ in 60 Sekunden. Geschaft: 6 verteilen. Nicht: Trinke 2.", false);
         tasks.add(task257);
 
-        Task task258 = new Task(258, "Name1 buchstabiere `Sisyphusarbeit´ in 60 Sekunden. Wenn du es nicht schaffst musst du 2 Schlucke trinken. Wenn wohl verteile 6 Schlucke.", false);
+        Task task258 = new Task(258, "Name1 buchstabiere `Sisyphusarbeit´ in 60 Sekunden. Geschaft: 6 verteilen. Nicht: Trinke 2.", false);
         tasks.add(task258);
 
-        Task task259 = new Task(259, "Name1 buchstabiere `Landmine´ in 60 Sekunden. Wenn du es nicht schaffst musst du 2 Schlucke trinken. Wenn wohl verteile 6 Schlucke.", false);
+        Task task259 = new Task(259, "Name1 buchstabiere `Landmine´ in 60 Sekunden. Geschaft: 6 verteilen. Nicht: Trinke 2.", false);
         tasks.add(task259);
 
-        Task task260 = new Task(260, "Name1 buchstabiere `Tür´ in 60 Sekunden. Wenn du es nicht schaffst musst du 2 Schlucke trinken. Wenn wohl verteile 6 Schlucke.", false);
+        Task task260 = new Task(260, "Name1 buchstabiere `Tür´ in 60 Sekunden. Geschaft: 6 verteilen. Nicht: Trinke 2.", false);
         tasks.add(task260);
 
-        Task task261 = new Task(261, "Name1 buchstabiere `Kuh´ in 60 Sekunden. Wenn du es nicht schaffst musst du 2 Schlucke trinken. Wenn wohl verteile 6 Schlucke.", false);
+        Task task261 = new Task(261, "Name1 buchstabiere `Kuh´ in 60 Sekunden. Geschaft: 6 verteilen. Nicht: Trinke 2.", false);
         tasks.add(task261);
 
         Task task262 = new Task(262, "Name1: Bring ein Film-Zitat! Wer den richtigen Film errät darf 6 Schlucke verteilen.", false);
@@ -811,13 +811,13 @@ public class TaskBuilder {
         Task task266 = new Task(266, "Alle die schon mal im Weserstadion waren trinken 2 Schlucke.", false);
         tasks.add(task266);
 
-        Task task267 = new Task(267, "Name1 verteilt einen kurzen.", false);
+        Task task267 = new Task(267, "Name1 verteilt einen Shot!", false);
         tasks.add(task267);
 
-        Task task268 = new Task(268, "Nennt ganze Zahlen von 1 bis 8. Name1 fängt an.", false);
+        Task task268 = new Task(268, "Nennt ganze Zahlen von 1 bis 8. Name1 beginnt.", false);
         tasks.add(task268);
 
-        Task task269 = new Task(269, "Wer dieses Jahr auf die meisten Festivals geht darf 5 Schlucke verteilen.", false);
+        Task task269 = new Task(269, "Wer geht dieses Jahr auf die meisten Festivals? Diese Person verteilt 5 Schlucke.", false);
         tasks.add(task269);
 
         Task task270 = new Task(270, "Alle Pärchen küssen sich. Wer sich als letztes küsst muss sich trennen oder 4 Schlucke trinken.", false);
@@ -835,13 +835,13 @@ public class TaskBuilder {
         Task task274 = new Task(274, "Alle, die schon mal eine Wattwanderung mitgemacht haben trinken.", false);
         tasks.add(task274);
 
-        Task task275 = new Task(275, "Nennt Schleusen in Wiesmoor. Name1 fängt an.", false);
+        Task task275 = new Task(275, "Nennt öffentlich rechtliche Sender in Deutschland. Name1 beginnt.", false);
         tasks.add(task275);
 
         Task task276 = new Task(276, "Alle die Adidas tragen trinken.", false);
         tasks.add(task276);
 
-        Task task277 = new Task(277, "Name1! Nicht schlapp machen! Trink mal lieber einen!", false);
+        Task task277 = new Task(277, "Name1! Nicht schlapp machen! Trink mal lieber!", false);
         tasks.add(task277);
 
         Task task278 = new Task(278, "Name1: Du darfst für jede social Media App + Account, welche du jetzt von deinem Handy löschst 5 Schlucke verteilen", false);
@@ -865,31 +865,31 @@ public class TaskBuilder {
         Task task284 = new Task(284, "REGEL \n Wählt die nüchternste Person. Er/Sie muss immer +1 trinken.", true);
         tasks.add(task284);
 
-        Task task285 = new Task(285, "Nennt geile Menschen im Raum. Name1 fängt an.", false);
+        Task task285 = new Task(285, "Nennt geile Menschen im Raum. Name1 beginnt.", false);
         tasks.add(task285);
 
         Task task286 = new Task(286, "Name1: befördere Name2 in eine korrekte stabile Seitenlage. Gaschafft: Verteile 5. Nicht: Mache 1. Erste Hilfe Kurs und trinke 3.", false);
         tasks.add(task286);
 
-        Task task287 = new Task(287, "Alle, die in den letzten zwei Jahren einen Erste Hilfe Kurs gemacht haben verteilen 6 Schlucke", false);
+        Task task287 = new Task(287, "Alle, die in den letzten zwei Jahren einen Erste Hilfe Kurs gemacht haben verteilen 5 Schlucke.", false);
         tasks.add(task287);
 
-        Task task288 = new Task(288, "Alle mit Weisheitszähnen trinken 4 Schlucke oder ziehen sie heraus.", false);
+        Task task288 = new Task(288, "Alle mit Weisheitszähnen trinken 4 Schlucke oder ziehen sie jetzt heraus.", false);
         tasks.add(task288);
 
-        Task task289 = new Task(289, "Wer war als letztes beim Zahnarzt? Diese Person verteilt 5 Schlucke.", false);
+        Task task289 = new Task(289, "Wer war als letztes beim Zahnarzt? Diese Person verteilt 4 Schlucke.", false);
         tasks.add(task289);
 
-        Task task290 = new Task(290, "Nennt Städte in Australien. Name1 fängt an.", false);
+        Task task290 = new Task(290, "Nennt Städte in Australien. Name1 beginnt.", false);
         tasks.add(task290);
 
-        Task task291 = new Task(291, "Nennt Fußballvereine aus der 3. Bundesliga. Name1 fängt an.", false);
+        Task task291 = new Task(291, "Nennt Fußballvereine aus der 3. Bundesliga. Name1 beginnt.", false);
         tasks.add(task291);
 
-        Task task292 = new Task(292, "Nennt aktuelle GNTM Juroren. Name1 fängt an.", false);
+        Task task292 = new Task(292, "Nennt aktuelle GNTM Juroren. Name1 beginnt.", false);
         tasks.add(task292);
 
-        Task task293 = new Task(293, "Nennt US-Präsidenten auf Banknoten oder Münzen. Name1 fängt an.", false);
+        Task task293 = new Task(293, "Nennt US-Präsidenten auf Banknoten oder Münzen. Name1 beginnt.", false);
         tasks.add(task293);
 
         Task task294 = new Task(294, "Alle die größer als 1,85m sind trinken.", false);
@@ -898,7 +898,7 @@ public class TaskBuilder {
         Task task295 = new Task(295, "Alle die kleiner als 1,80m sind trinken.", false);
         tasks.add(task295);
 
-        Task task296 = new Task(296, "Nennt NFL Teams. Name1 fängt an.", false);
+        Task task296 = new Task(296, "Nennt NFL Teams. Name1 beginnt.", false);
         tasks.add(task296);
 
         Task task297 = new Task(297, "Alle, die ihren Führerschein nicht im ersten Versuch geschafft haben trinken.", false);
@@ -916,40 +916,40 @@ public class TaskBuilder {
         Task task301 = new Task(301, "Alle mit einer Allergie trinken.", false);
         tasks.add(task301);
 
-        Task task302 = new Task(302, "Alle, die siesen Monat beim Arzt waren trinken 3 Schlucke.", false);
+        Task task302 = new Task(302, "Alle, die diesen Monat beim Arzt waren trinken 3 Schlucke.", false);
         tasks.add(task302);
 
         Task task303 = new Task(303, "Alle, die diesen Monat beim Arzt waren verteilen 3 Schlucke.", false);
         tasks.add(task303);
 
-        Task task304 = new Task(304, "Name1 zieht ein Kleidungsstück aus, oder ext sein Glas.", false);
+        Task task304 = new Task(304, "Name1 zieht ein Kleidungsstück aus, oder ext.", false);
         tasks.add(task304);
 
-        Task task305 = new Task(305, "Name1 zieht ein Kleidungsstück aus, oder ext sein Glas.", false);
+        Task task305 = new Task(305, "Name1 zieht ein Kleidungsstück aus, oder ext.", false);
         tasks.add(task305);
 
-        Task task306 = new Task(306, "Name1 zieht ein Kleidungsstück aus, oder ext sein Glas.", false);
+        Task task306 = new Task(306, "Name1 zieht ein Kleidungsstück aus, oder ext.", false);
         tasks.add(task306);
 
         Task task307 = new Task(307, "Name1, Name2 und Name3: Wie oft habt ihr diese Woche Fleisch gegessen? Für jedes Mal dürft ihr 1 Schluck trinken.", false);
         tasks.add(task307);
 
-        Task task308 = new Task(308, "Alle die schon mal im Kanal geschwommen sind trinken.", false);
+        Task task308 = new Task(308, "Alle die schon mal in einem Kanal geschwommen sind trinken.", false);
         tasks.add(task308);
 
-        Task task309 = new Task(309, "Alle die schon mal auf dem Kanal Schlittschuh gelaufen sind trinken.", false);
+        Task task309 = new Task(309, "Alle die schon mal auf einem Kanal Schlittschuh gelaufen sind trinken.", false);
         tasks.add(task309);
 
-        Task task310 = new Task(310, "Jeder trinkt pro 100 Instagram Follower einen Schluck. (321 Follower=3 Schlucke.)", false);
+        Task task310 = new Task(310, "Jeder trinkt pro 100 Instagram Follower einen Schluck. (321 Follower = 3 Schlucke.)", false);
         tasks.add(task310);
 
         Task task311 = new Task(311, "Name1 und Name2: Wie oft habt ihr diese Woche Fleisch gegessen? Für jedes Mal dürft ihr 1 Schluck trinken.", false);
         tasks.add(task311);
 
-        Task task312 = new Task(312, "Nennt Pornodarstellerinnen (W). Name1 fängt an.", false);
+        Task task312 = new Task(312, "Nennt Pornodarstellerinnen (W). Name1 beginnt.", false);
         tasks.add(task312);
 
-        Task task313 = new Task(313, "Nennt Pornodarsteller (M). Name1 fängt an.", false);
+        Task task313 = new Task(313, "Nennt Pornodarsteller (M). Name1 beginnt.", false);
         tasks.add(task313);
 
         Task task314 = new Task(314, "Alle mit HUAWEI Handy trinken.", false);
@@ -979,19 +979,19 @@ public class TaskBuilder {
         Task task322 = new Task(322, "Alle die schon mal Geburtstag hatten trinken.", false);
         tasks.add(task322);
 
-        Task task323 = new Task(323, "Name1 und Name2: Werkann mehr Liegestütze? Name3 zählt. Die Siegerin darf 5 Schluck verteilen.", false);
+        Task task323 = new Task(323, "Name1 und Name2: Wer kann mehr Liegestütze? Name3 zählt. Die Siegende darf 5 Schluck verteilen.", false);
         tasks.add(task323);
 
         Task task324 = new Task(324, "Name1 muss Name2 mit einem Deckel abwerfen. Wenn er/sie trifft muss Name2 5 Schlucke trinken. Wenn nicht muss Name1 5 Schlucke trinken.", false);
         tasks.add(task324);
 
-        Task task325 = new Task(325, "Name1: welchen Mitspieler/in findest du am attraktivsten? Diese Person trinkt 5 Schlucke.", false);
+        Task task325 = new Task(325, "Name1: welche/n Mitspieler/in findest du am attraktivsten? Diese Person trinkt 5 Schlucke.", false);
         tasks.add(task325);
 
-        Task task326 = new Task(326, "Name1 entscheide dich: Name2, oder Name3? Die gewählte Person darf 7 Schlucke trinken.", false);
+        Task task326 = new Task(326, "Name1 entscheide dich: Name2, oder Name3? Die gewählte Person darf 6 Schlucke trinken.", false);
         tasks.add(task326);
 
-        Task task327 = new Task(327, "Alle die Hemd tragen trinken", false);
+        Task task327 = new Task(327, "Alle die Hemd tragen trinken.", false);
         tasks.add(task327);
 
         Task task328 = new Task(328, "Name1 entscheide dich: Name2, oder Name3? Die gewählte Person darf 7 Schlucke verteilen.", false);
@@ -1000,19 +1000,19 @@ public class TaskBuilder {
         Task task329 = new Task(329, "Nennt Lampenfassungen. Name1 beginnt.", false);
         tasks.add(task329);
 
-        Task task330 = new Task(330, "Nennt Religionen. Name1 fängt an.", false);
+        Task task330 = new Task(330, "Nennt Religionen. Name1 beginnt.", false);
         tasks.add(task330);
 
-        Task task331 = new Task(331, "Nennt Städte in Russland. Name1 fängt an.", false);
+        Task task331 = new Task(331, "Nennt Städte in Russland. Name1 beginnt.", false);
         tasks.add(task331);
 
-        Task task332 = new Task(332, "Nennt Häuser bei Game of Thrones. Name1 fängt an.", false);
+        Task task332 = new Task(332, "Nennt Häuser bei Game of Thrones. Name1 beginnt.", false);
         tasks.add(task332);
 
-        Task task333 = new Task(333, "Nennt Politiker mit `G´. Name1 fängt an.", false);
+        Task task333 = new Task(333, "Nennt Politiker mit `G´. Name1 beginnt.", false);
         tasks.add(task333);
 
-        Task task334 = new Task(334, "Wenn es gerade regnet, müssen Name1 und Name2 3 Schlucke trinken.", false);
+        Task task334 = new Task(334, "Wenn es gerade regnet, müssen Name1 und Name2 4 Schlucke trinken.", false);
         tasks.add(task334);
 
         Task task335 = new Task(335, "Alle die gerade trinken mussten, trinken die gleiche Anzahl nochmal.", false);
@@ -1024,13 +1024,13 @@ public class TaskBuilder {
         Task task337 = new Task(337, "Wenn es gerade nicht regnet müssen Name1 und Name2 3 Schlucke trinken.", false);
         tasks.add(task337);
 
-        Task task338 = new Task(338, "Nennt Länder in Afrika. Name1 fängt an.", false);
+        Task task338 = new Task(338, "Nennt Länder in Afrika. Name1 beginnt.", false);
         tasks.add(task338);
 
         Task task339 = new Task(339, "Alle mit 10 Fingern trinken 2 Schlucke.", false);
         tasks.add(task339);
 
-        Task task340 = new Task(340, "Wenn es draußen gerade über 15°C sind, muss Name1 3 Schlucke trinken.", false);
+        Task task340 = new Task(340, "Wenn es draußen gerade über 15°C sind, müssen Name1 und Name2 3 Schlucke trinken.", false);
         tasks.add(task340);
 
         Task task341 = new Task(341, "Alle die schon mal eine Waffe abgefeuert haben trinken 5 Schlucke.", false);
@@ -1039,19 +1039,19 @@ public class TaskBuilder {
         Task task342 = new Task(342, "Wenn es draußen gerade über 20°C sind, müssen Name1 und Name2 3 Schlucke trinken.", false);
         tasks.add(task342);
 
-        Task task343 = new Task(343, "Nennt Landkreise in Niedersachsen. Name1 fängt an.", false);
+        Task task343 = new Task(343, "Nennt Landkreise in Niedersachsen. Name1 beginnt.", false);
         tasks.add(task343);
 
-        Task task344 = new Task(344, "Name1 darf so viele Schlucke verteilen, wie sie Bäume von ihrem Sitzplatz aus sieht.", false);
+        Task task344 = new Task(344, "Name1 darf so viele Schlucke verteilen, wie sie Bäume vom Sitzplatz aus sieht.", false);
         tasks.add(task344);
 
         Task task345 = new Task(345, "Alle die schon mal gebrannt haben trinken.", false);
         tasks.add(task345);
 
-        Task task346 = new Task(346, "Name1 darf pro lebender Pflanze im Raum 1 Schluck verteilen.", false);
+        Task task346 = new Task(346, "Name1 darf pro lebender Pflanze im Raum 1 Schluck verteilen. (Max. 8)", false);
         tasks.add(task346);
 
-        Task task347 = new Task(347, "Alle die schon mal ihre Hände gewaschen haben trinken 2 Schlucke.", false);
+        Task task347 = new Task(347, "Alle die heute schon mal ihre Hände gewaschen haben trinken 2 Schlucke.", false);
         tasks.add(task347);
 
         Task task348 = new Task(348, "Alle die schon mal selbst ihre Klamotten gewaschen haben trinken.", false);
@@ -1060,7 +1060,7 @@ public class TaskBuilder {
         Task task349 = new Task(349, "Alle die bei ihren Eltern wohnen trinken 4 Schlucke.", false);
         tasks.add(task349);
 
-        Task task350 = new Task(350, "Die Person mit dem größten Bizeps darf 4 Schlucke verteilen.", false);
+        Task task350 = new Task(350, "Wählt die Person mit dem kleinstem Bizeps. Diese Person verteilt 6 Schlucke.", false);
         tasks.add(task350);
 
         Task task351 = new Task(351, "Alle die schon mal in einer Spielothek waren trinken 3 Schlucke.", false);
@@ -1069,7 +1069,7 @@ public class TaskBuilder {
         Task task352 = new Task(352, "Alle die eine eigene Wohnung haben trinken 3 Schlucke.", false);
         tasks.add(task352);
 
-        Task task353 = new Task(353, "Nennt Brotsorten. Name1 fängt an.", false);
+        Task task353 = new Task(353, "Nennt Brotsorten. Name1 beginnt.", false);
         tasks.add(task353);
 
         Task task354 = new Task(354, "Alle die heute gut gefrühstückt haben trinken 2 Schlucke.", false);
@@ -1084,7 +1084,7 @@ public class TaskBuilder {
         Task task357 = new Task(357, "Alle die schon mal das Abendmahl nachgestellt haben verteilen zwei Schlucke.", false);
         tasks.add(task357);
 
-        Task task358 = new Task(358, "Alle Mitspielenden mit einem Akademischen Titel dürfen 5 Schlucke verteilen.", false);
+        Task task358 = new Task(358, "Alle Mitspielenden mit einem Akademischen Titel verteilen 5 Schlucke.", false);
         tasks.add(task358);
 
         Task task359 = new Task(359, "Pantomime! Name1 sagt Name2 ein Wort. Er/Sie muss es ohne Worte darstellen. Wer es in 90 Sekunden errät darf zusammen mit dem Spielenden 10 Schlucke verteilen.", false);
@@ -1096,22 +1096,22 @@ public class TaskBuilder {
         Task task361 = new Task(361, "Name1: Wer darf 10 Schlucke verteilen? Name2, oder Name3?", false);
         tasks.add(task361);
 
-        Task task362 = new Task(362, "Alle die schon mal von Alkohol gespait haben trinken 4 Schlucke.", false);
+        Task task362 = new Task(362, "Alle die schon mal von Alkohol gespait haben trinken 2 Schlucke.", false);
         tasks.add(task362);
 
-        Task task363 = new Task(363, "Stimmt ab: Wer wird heute als erstes spaien? Diese Person darf 10 Schlucke verteilen.", false);
+        Task task363 = new Task(363, "Stimmt ab: Wer wird heute als erstes spaien? Diese Person darf 6 Schlucke verteilen.", false);
         tasks.add(task363);
 
-        Task task364 = new Task(364, "Nennt Rapper mit `lil´ im Namen. Name1 fängt an.", false);
+        Task task364 = new Task(364, "Nennt Rapper mit `lil´ im Namen. Name1 beginnt.", false);
         tasks.add(task364);
 
-        Task task365 = new Task(365, "Nennt deutsche Rapperinnen. Name1 fängt an.", false);
+        Task task365 = new Task(365, "Nennt deutsche Rapperinnen. Name1 beginnt.", false);
         tasks.add(task365);
 
-        Task task366 = new Task(366, "Nennt Nobelpreisträger. Name1 fängt an.", false);
+        Task task366 = new Task(366, "Nennt Nobelpreisträger. Name1 beginnt.", false);
         tasks.add(task366);
 
-        Task task367 = new Task(367, "Nennt Lieder von Herbert Grönemeyer. Name1 fängt an.", false);
+        Task task367 = new Task(367, "Nennt Lieder von Herbert Grönemeyer. Name1 beginnt.", false);
         tasks.add(task367);
 
         Task task368 = new Task(368, "Name1: Trinke 5 Schlucke während du dich auf einem Bein drehst.", false);
@@ -1120,52 +1120,52 @@ public class TaskBuilder {
         Task task369 = new Task(369, "Alle die schon mal auf einem Festival außerhalb Niedersachsens waren trinken.", false);
         tasks.add(task369);
 
-        Task task370 = new Task(370, "Name1: Errate die Farbe der Unterwäsche von Name2. Richtig? Verteile 6. Falsch? Trinke 4.", false);
+        Task task370 = new Task(370, "Name1: Errate die Farbe der Unterwäsche von Name2. Richtig? Verteile 5. Falsch? Trinke 3.", false);
         tasks.add(task370);
 
-        Task task371 = new Task(371, "Alle Mitspieldenen mit einem Akademischen Titel müssen 4 Schlucke trinken.", false);
+        Task task371 = new Task(371, "Alle Mitspieldenen mit einem Akademischen Titel trinken 4 Schlucke.", false);
         tasks.add(task371);
 
         Task task372 = new Task(372, "Wer wurde am häufigsten geblitzt? Diese Person verteilt 6 Schlucke.", false);
         tasks.add(task372);
 
-        Task task373 = new Task(373, "Alle die während des Spiels nicht ganz ehrlich waren trinken 3 Schlucke.", false);
+        Task task373 = new Task(373, "Alle die während des Spiels nicht ganz ehrlich waren trinken 2 Schlucke.", false);
         tasks.add(task373);
 
-        Task task374 = new Task(374, "Nennt Städte in Brasilien. Name1 fängt an.", false);
+        Task task374 = new Task(374, "Nennt Städte in Brasilien. Name1 beginnt.", false);
         tasks.add(task374);
 
-        Task task375 = new Task(375, "Nennt Grundrechte. Name1 fängt an.", false);
+        Task task375 = new Task(375, "Nennt Grundrechte. Name1 beginnt.", false);
         tasks.add(task375);
 
         Task task376 = new Task(376, "Name1: Nenne in 60 Sekunden alle 10 Gebote. Schaffst du es nicht, trinke 1 Schluck für jedes fehlende Gebot.", false);
         tasks.add(task376);
 
-        Task task377 = new Task(377, "Die letzte Person die beide Arme in der Luft hat, trinkt 5 Schlucke.", false);
+        Task task377 = new Task(377, "Die letzte Person die beide Arme in der Luft hat, trinkt 4 Schlucke.", false);
         tasks.add(task377);
 
-        Task task378 = new Task(378, "Nennt menschliche Organe. Name1 fängt an.", false);
+        Task task378 = new Task(378, "Nennt menschliche Organe. Name1 beginnt.", false);
         tasks.add(task378);
 
         Task task379 = new Task(379, "Name1, wann hat Name2 Geburtstag? Richtig: 5 verteilen. Faslsch: 4 selbst.", false);
         tasks.add(task379);
 
-        Task task380 = new Task(380, "Nennt ehemalige Vereine aus der 1. Bundesliga. Name1 fängt an.", false);
+        Task task380 = new Task(380, "Nennt ehemalige Vereine aus der 1. Bundesliga. Name1 beginnt.", false);
         tasks.add(task380);
 
         Task task381 = new Task(381, "Die mit dem höchsten Bildungsabschluss dürfen 5 Schlucke verteilen.", false);
         tasks.add(task381);
 
-        Task task382 = new Task(382, "Nennt Charaktere bei Desperate Housewifes. Name1 begintt.", false);
+        Task task382 = new Task(382, "Nennt Songs von ABBA. Name1 beginnt.", false);
         tasks.add(task382);
 
         Task task383 = new Task(383, "Name1, du bist ab jetzt 5 Minuten blind. Name2 stellt den Timer.", false);
         tasks.add(task383);
 
-        Task task384 = new Task(384, "Nennt Charaktere bei Spongebob. Name1 fängt an.", false);
+        Task task384 = new Task(384, "Nennt Charaktere bei Spongebob. Name1 beginnt.", false);
         tasks.add(task384);
 
-        Task task385 = new Task(385, "Nennt Charaktere bei den Simpsons. Name1 fängt an.", false);
+        Task task385 = new Task(385, "Nennt Charaktere bei den Simpsons. Name1 beginnt.", false);
         tasks.add(task385);
 
         Task task386 = new Task(386, "Name1 und Name2: Postet den PlayStore-Link der SPAIEN App in eurer Instagram Story, oder trinkt jeder 8 Schlucke.", false);
@@ -1183,37 +1183,37 @@ public class TaskBuilder {
         Task task390 = new Task(390, "Name1: Mache einen Salto, oder trinke 3 Schlucke.", false);
         tasks.add(task390);
 
-        Task task391 = new Task(391, "Name1: Du siehst hässlich aus. Trink erst mal einen", false);
+        Task task391 = new Task(391, "Name1: Du siehst ja wieder aus! Trink erst mal einen", false);
         tasks.add(task391);
 
         Task task392 = new Task(392, "Name1: Du siehst zu gut aus. Trink erst mal einen.", false);
         tasks.add(task392);
 
-        Task task393 = new Task(393, "Name1 und Name 2, rechnet eure letzten 3 Amazon Bestellungen zusammen. Die mit der niedrigeren Summe verteilt 4 Schlucke.", false);
+        Task task393 = new Task(393, "Name1 und Name2, rechnet eure letzten 3 Amazon Bestellungen zusammen. Die mit der niedrigeren Summe verteilt 4 Schlucke.", false);
         tasks.add(task393);
 
-        Task task394 = new Task(394, "Alle die schon mal etwas zusammengeschweißt haben verteilen 4 Schlucke.", false);
+        Task task394 = new Task(394, "Alle die schon mal etwas zusammengeschweißt haben verteilen 3 Schlucke.", false);
         tasks.add(task394);
 
         Task task395 = new Task(395, "Name1 und Name2: Stellt eine Sexposition nach, oder ext euer Glas.", false);
         tasks.add(task395);
 
-        Task task396 = new Task(396, "Name1: Nenne 6 Länder in denen Name2 schon mal war. Gelingt es dir verteile 5 Schlucke.", false);
+        Task task396 = new Task(396, "Name1: Nenne 5 Länder in denen Name2 schon mal mindestens eine Nacht geschlafen hat. Geschafft: 5 verteilen. Nicht: 4 selbst.", false);
         tasks.add(task396);
 
-        Task task397 = new Task(397, "Stimmt ab: Lieber die Intelligenz von Name1, oder den Sexappeal von Name2 haben? Die gewählte Person verteilt 8 Schlucke.", false);
+        Task task397 = new Task(397, "Stimmt ab: Lieber die Intelligenz von Name1, oder den Sexappeal von Name2 haben? Die gewählte Person verteilt 7 Schlucke.", false);
         tasks.add(task397);
 
-        Task task398 = new Task(398, "Nennt Sternzeichen. Name1 fängt an.", false);
+        Task task398 = new Task(398, "Nennt Sternzeichen. Name1 beginnt.", false);
         tasks.add(task398);
 
         Task task399 = new Task(399, "Alle die diesen Monat schon gegrillt haben trinken.", false);
         tasks.add(task399);
 
-        Task task400 = new Task(400, "Nennt Planeten. Name1 fängt an.", false);
+        Task task400 = new Task(400, "Nennt Planeten. Name1 beginnt.", false);
         tasks.add(task400);
 
-        Task task401 = new Task(401, "Nennt Fische. Name1 fängt an.", false);
+        Task task401 = new Task(401, "Nennt Fische. Name1 beginnt.", false);
         tasks.add(task401);
 
         Task task402 = new Task(402, "Nennt Haltestellen der S-Bahnlinie 2 in Mannheim. Name1 beginnt.", false);
@@ -1231,13 +1231,13 @@ public class TaskBuilder {
         Task task406 = new Task(406, "Alle die schon mal die 10 Gebote gebrochen haben, trinken pro gebrochenes Gebot 1 Schluck.", false);
         tasks.add(task406);
 
-        Task task407 = new Task(407, "Name1: Wie viele Parteien sitzen im Niedersächsischen Landtag? Richtig? Verteile 4 Schlucke.", false);
+        Task task407 = new Task(407, "Nennt Parteien im Niedersächsischen Landtag. Name1 beginnt.", false);
         tasks.add(task407);
 
-        Task task408 = new Task(408, "Alle die schon mal etwas abgeflext haben verteilen 3 Schlucke.", false);
+        Task task408 = new Task(408, "Alle die schon mal etwas abgeflext haben verteilen 2 Schlucke.", false);
         tasks.add(task408);
 
-        Task task409 = new Task(409, "Nennt Haltestellen der S-Bahnlinie 6 in Hannover. Name1 fängt an.", false);
+        Task task409 = new Task(409, "Nennt Haltestellen der Stadtbahnlinie 6 in Hannover. Name1 beginnt.", false);
         tasks.add(task409);
 
         Task task410 = new Task(410, "Name1: Sei kreativ! Wer muss wie viel wann wofür trinken?", false);
@@ -1258,7 +1258,7 @@ public class TaskBuilder {
         Task task415 = new Task(415, "REGEL \n Trinkbuddys! Name1 sucht sich einen Trinkbuddy aus.", true);
         tasks.add(task415);
 
-        Task task416 = new Task(416, "Wer kann am besten wie ein Pferd wiehern? Wiehert und stimmt ab! Die gewählte Person darf 8 Schlucke verteilen.", false);
+        Task task416 = new Task(416, "Wer kann am besten wie ein Pferd wiehern? Wiehert und stimmt ab! Die gewählte Person darf 7 Schlucke verteilen.", false);
         tasks.add(task416);
 
         Task task417 = new Task(417, "Wer ist der/die Lustigste? Die gewählte Person darf 8 Schlucke verteilen.", false);
@@ -1279,7 +1279,7 @@ public class TaskBuilder {
         Task task422 = new Task(422, "Alle, die an den Fingernägeln kauen, oder gekaut haben, trinken 2 Schlucke.", false);
         tasks.add(task422);
 
-        Task task423 = new Task(423, "Alle Raucher trinken 4 Schlucke.", false);
+        Task task423 = new Task(423, "Alle Raucher trinken 5 Schlucke.", false);
         tasks.add(task423);
 
         Task task424 = new Task(424, "Alle, die auf einem Stuhl sitzen trinken.", false);
@@ -1294,7 +1294,7 @@ public class TaskBuilder {
         Task task427 = new Task(427, "Alle mit Tattoo trinken.", false);
         tasks.add(task427);
 
-        Task task428 = new Task(428, "Alle ohne Tattoo trinken 7 Schlucke, oder lassen sich von ihrem rechten Sitznachbarn „Spaien“ auf den Arm schreiben! ", false);
+        Task task428 = new Task(428, "Alle ohne Tattoo trinken 6 Schlucke, oder lassen sich von ihrem rechten Sitznachbarn „Spaien“ auf den Arm schreiben! ", false);
         tasks.add(task428);
 
         Task task429 = new Task(429, "ARMDRÜCKEN! Name1 gegen Name2. Gewinner verteilt 8 Schlucke. Wird nicht gespielt, trinken beide 5 Schlucke.", false);
@@ -1303,7 +1303,7 @@ public class TaskBuilder {
         Task task430 = new Task(430, "Name1 und Name2: Füllt jeweils eine 1L Flasche mit Leitungswasser, Wer sie als erstes ausgetrunken hat darf 6 Schlucke verteilen.", false);
         tasks.add(task430);
 
-        Task task431 = new Task(431, "Nennt Kinderserien aus eurer Kindheit. Name1 fängt an.", false);
+        Task task431 = new Task(431, "Nennt Kinderserien aus eurer Kindheit. Name1 beginnt.", false);
         tasks.add(task431);
 
         Task task432 = new Task(432, "Name1: Verteile so viele Schlucke, wie du schwarze Kleidungsstücke trägst. (Jede Socke zählt)", false);
@@ -1327,28 +1327,28 @@ public class TaskBuilder {
         Task task438 = new Task(438, "Wer hat das schönste Passbild? Stimmt ab. Der Gewinner darf 8 Schlucke verteilen. Wer den Ausweis nicht zeigt trinkt 3 Schlucke.", false);
         tasks.add(task438);
 
-        Task task439 = new Task(439, "Alle, die mehr als einen Zwischennamen haben verteilen 10 Schlucke.", false);
+        Task task439 = new Task(439, "Alle, die mehr als einen Zwischennamen haben verteilen 5 Schlucke.", false);
         tasks.add(task439);
 
-        Task task440 = new Task(440, "Alle mit “D” im Nachnamen verteilen 3 Schlucke.", false);
+        Task task440 = new Task(440, "Alle mit `D´ im Nachnamen verteilen 3 Schlucke.", false);
         tasks.add(task440);
 
-        Task task441 = new Task(441, "Wen im Raum würdet ihr gerade am ehesten bitten zu gehen? Stimmt ab! Die gewählte Person trinkt 5 Schlucke.", false);
+        Task task441 = new Task(441, "Stimmt ab! Wen im Raum würdet ihr gerade am ehesten bitten zu gehen? Die gewählte Person trinkt 5 Schlucke.", false);
         tasks.add(task441);
 
-        Task task442 = new Task(442, "Nennt die Zahl 8 in verschiedenen Sprachen. Name1 fängt an.", false);
+        Task task442 = new Task(442, "Nennt die Zahl 8 in verschiedenen Sprachen. Name1 beginnt.", false);
         tasks.add(task442);
 
-        Task task443 = new Task(443, "Name1 mischt Name2 ein Getränkt mit welchen Name2 weiterspielen muss.", false);
+        Task task443 = new Task(443, "Name1 mischt Name2 ein Getränkt mit welchem Name2 weiterspielen muss.", false);
         tasks.add(task443);
 
-        Task task444 = new Task(444, "Die Damen: Trinkt eure Körbchengröße in Schlücken (A=2, B=3, etc.)", false);
+        Task task444 = new Task(444, "Die Damen trinken ihre Körbchengröße in Schlücken (A=2, B=3, etc.)", false);
         tasks.add(task444);
 
         Task task445 = new Task(445, "Alle, deren Haare länger als schulterlang sind, trinken 3 Schlucke, oder lassen sie jetzt von Name1 abschneiden.", false);
         tasks.add(task445);
 
-        Task task446 = new Task(446, "Name1, trinke so viele Schlucke wie du Exfreunde/innen hast.", false);
+        Task task446 = new Task(446, "Name1: trinke so viele Schlucke wie du Exfreunde/innen hast.", false);
         tasks.add(task446);
 
         Task task447 = new Task(447, "Die letzte Person die aufsteht muss 5 Schlucke trinken.", false);
@@ -1357,19 +1357,19 @@ public class TaskBuilder {
         Task task448 = new Task(448, "Stimmt ab: Wer ist der beste Tänzer im Raum? Die gewählte Person trinkt tanzend 4 und verteilt 6  Schlucke.", false);
         tasks.add(task448);
 
-        Task task449 = new Task(449, "Name1, spielt Name2 richtig mit, oder sollte er/sie mal fix mit dir einen trinken?", false);
+        Task task449 = new Task(449, "Name1: spielt Name2 richtig mit, oder sollte er/sie mal fix mit dir einen trinken?", false);
         tasks.add(task449);
 
-        Task task450 = new Task(450, "Name1, wer bekommt alles einen Shot?", false);
+        Task task450 = new Task(450, "Name1: wer bekommt alles einen Shot?", false);
         tasks.add(task450);
 
-        Task task451 = new Task(451, "Nennt Olympische Sportarten (Sommerspiele). Name1 fängt an.", false);
+        Task task451 = new Task(451, "Nennt Olympische Sportarten (Sommerspiele). Name1 beginnt.", false);
         tasks.add(task451);
 
-        Task task452 = new Task(452, "Nennt Olympische Sportarten (Winterspiele). Name1 fängt an.", false);
+        Task task452 = new Task(452, "Nennt Olympische Sportarten (Winterspiele). Name1 beginnt.", false);
         tasks.add(task452);
 
-        Task task453 = new Task(453, "Wer kann am besten wie ein Vogel zwitschern? Zwitschert und stimmt ab! Die gewählte Person darf 8 Schlucke verteilen.", false);
+        Task task453 = new Task(453, "Wer kann am besten wie ein Vogel zwitschern? Zwitschert und stimmt ab! Die gewählte Person darf 7 Schlucke verteilen.", false);
         tasks.add(task453);
 
         Task task454 = new Task(454, "WETTSTARREN! Name1 und Name2 gucken sich in die Augen. Wer zuerst blinzelt trinkt 3 Schlucke.", false);
@@ -1387,19 +1387,19 @@ public class TaskBuilder {
         Task task458 = new Task(458, "Jede, die jetzt hier ihren BH auszieht und Name1 gibt, darf 15 Schlucke verteilen.", false);
         tasks.add(task458);
 
-        Task task459 = new Task(459, "Name1 ,trinke 10 Schlucke oder wasche dir jetzt die Hände.", false);
+        Task task459 = new Task(459, "Name1: trinke 10 Schlucke oder wasche dir jetzt die Hände.", false);
         tasks.add(task459);
 
-        Task task460 = new Task(460, "REGEL \n Name1 muss alles was Name2 sagt parallel dazu ins englische übersetzen.", true);
+        Task task460 = new Task(460, "REGEL \n Name1 muss alles was Name2 sagt parallel dazu in englisch übersetzen.", true);
         tasks.add(task460);
 
         Task task461 = new Task(461, "Name1 und Name2 tauschen Plätze.", false);
         tasks.add(task461);
 
-        Task task462 = new Task(462, "Name1, schneide dir einen Finger ab, oder trinke 4 Schlucke.", false);
+        Task task462 = new Task(462, "Name1: Schneide dir einen Finger ab, oder trinke 4 Schlucke.", false);
         tasks.add(task462);
 
-        Task task463 = new Task(463, "Name1, schließe für 2 Minuten deine Augen, oder trinke 6 Schlucke.", false);
+        Task task463 = new Task(463, "Name1: Schließe für 2 Minuten deine Augen, oder trinke 6 Schlucke.", false);
         tasks.add(task463);
 
         Task task464 = new Task(464, "Name1, exe ein Glas Milch, oder trinke 5 Schlucke.", false);
@@ -1411,7 +1411,7 @@ public class TaskBuilder {
         Task task466 = new Task(466, "Wer ist der/die perfekte Schwiegersohn/tochter? Stimmt ab! Die gewählte Person darf 8 Schlucke verteilen.", false);
         tasks.add(task466);
 
-        Task task467 = new Task(467, "Name1, beschreibe Name2 mit 10 Adjektiven (Wie-Wörtern). Pro nicht passendem Wort einen Schluck.", false);
+        Task task467 = new Task(467, "Name1: Beschreibe Name2 mit 10 Adjektiven (Wie-Wörtern). Pro nicht passendem Wort einen Schluck.", false);
         tasks.add(task467);
 
         Task task468 = new Task(468, "Alle, die kurze Socken tragen trinken 2 Schlucke.", false);
@@ -1420,7 +1420,7 @@ public class TaskBuilder {
         Task task469 = new Task(469, "Name1 und Name2 tauschen Plätze.", false);
         tasks.add(task469);
 
-        Task task470 = new Task(470, "Name1, suche dir eine Person aus, welche dir jetzt verrät wie viel du nun trinken darfst.", false);
+        Task task470 = new Task(470, "Name1: Suche dir eine Person aus, welche dir jetzt verrät wie viel du nun trinken darfst.", false);
         tasks.add(task470);
 
         Task task471 = new Task(471, "Hähnchen oder Pute? Stimmt ab! Die Minderheit trinkt.", false);
@@ -1429,7 +1429,7 @@ public class TaskBuilder {
         Task task472 = new Task(472, "Wer würde am längsten in der Wildnis überleben? Stimmt ab! Die gewählte Person darf 3 Shots verteilen.", false);
         tasks.add(task472);
 
-        Task task473 = new Task(473, "Nennt Treckermarken. Name1 beginnt", false);
+        Task task473 = new Task(473, "Nennt Treckermarken. Name1 beginnt.", false);
         tasks.add(task473);
 
         Task task474 = new Task(474, "Name1 und Name2 tauschen Plätze.", false);
@@ -1438,7 +1438,7 @@ public class TaskBuilder {
         Task task475 = new Task(475, "Jeder schätzt die morgige Regenwahrscheinlichkeit auf Wetter.com (+/-5%). Name1 guckt nach. Wer falsch liegt trinkt.", false);
         tasks.add(task475);
 
-        Task task476 = new Task(476, "Alle, die auf Zehenspitzen, ohne zu springen die Zimmerdecke berühren können verteilen 3 Schlucke.", false);
+        Task task476 = new Task(476, "Alle, die auf Zehenspitzen, ohne zu springen, die Zimmerdecke berühren können verteilen 3 Schlucke.", false);
         tasks.add(task476);
 
         Task task477 = new Task(477, "Name1, für jeden Euro den du jetzt Name2 überweist (PayPal o.ä.) darfst du 1 Schluck verteilen.", false);
@@ -1450,7 +1450,7 @@ public class TaskBuilder {
         Task task479 = new Task(479, "Alle, die heute Nacht nicht alleine schlafen trinken 2 Schlucke.", false);
         tasks.add(task479);
 
-        Task task480 = new Task(480, "Name1: Wer zickt heute am meisten rum? Verteile dieser Person 4 Schlucke.", false);
+        Task task480 = new Task(480, "Name1: Wer zickt heute am meisten rum? Diese Person trinkt 4 Schlucke.", false);
         tasks.add(task480);
 
         Task task481 = new Task(481, "Attraktivitätsskala 1-10! Name1, wie würdest du Name2 einschätzen? Name2 darf die genannte Zahl an Schlucke verteilen.", false);
@@ -1468,13 +1468,13 @@ public class TaskBuilder {
         Task task485 = new Task(485, "Name1 und Name2: Schlagt euch gegenseitig hart auf die Schulter, oder trinkt beide 7 Schlucke.", false);
         tasks.add(task485);
 
-        Task task486 = new Task(486, "Name1: Wau bist du schön! Das darf nicht so bleiben. Trink 2 Schlucke", false);
+        Task task486 = new Task(486, "Name1: Wau bist du schön! Das darf nicht so bleiben. Trink 3 Schlucke.", false);
         tasks.add(task486);
 
         Task task487 = new Task(487, "Nennt Kreisligasprüche. Name1 beginnt.", false);
         tasks.add(task487);
 
-        Task task488 = new Task(488, "Name1, exe dein Glas! Ne Spaß, verteile 5 Schlucke.", false);
+        Task task488 = new Task(488, "Name1: Exe dein Glas! Ne Spaß, verteile 5 Schlucke.", false);
         tasks.add(task488);
 
         Task task489 = new Task(489, "Nennt Kriegsjahre des zweiten Weltkriegs. Name1 beginnt.", false);
@@ -1489,7 +1489,7 @@ public class TaskBuilder {
         Task task492 = new Task(492, "Name1 muss so viele Schlucke trinken, wie er/sie in 60 Sekunden blinzelt.", false);
         tasks.add(task492);
 
-        Task task493 = new Task(493, "Alle die heute ein warmes Mittagessen hatten, trinken zwei Schlucke.", false);
+        Task task493 = new Task(493, "Alle die heute ein warmes Mittagessen hatten, trinken 2 Schlucke.", false);
         tasks.add(task493);
 
         Task task494 = new Task(494, "Nennt Tiere mit Hörnern. Name1 beginnt.", false);
@@ -1501,16 +1501,16 @@ public class TaskBuilder {
         Task task496 = new Task(496, "Nennt Haltestellen des RE1 von Norddeich-Mole nach Hannover. Name1 beginnt.", false);
         tasks.add(task496);
 
-        Task task497 = new Task(497, "Name1, verteile 4 Schlucke an jemanden, der heute weniger getrunken hat als du.", false);
+        Task task497 = new Task(497, "Name1: Verteile 4 Schlucke an jemanden, der heute weniger getrunken hat als du.", false);
         tasks.add(task497);
 
-        Task task498 = new Task(498, "Name1 und Name2. Spielt Schere-Stein-Papier (Best of Three). Der Gewinner darf 8 verteilen.", false);
+        Task task498 = new Task(498, "Name1 und Name2. Spielt Schere-Stein-Papier (Best of Three). Der Gewinner darf 7 verteilen.", false);
         tasks.add(task498);
 
         Task task499 = new Task(499, "Alle, die schonmal ein Kabel abisoliert haben verteilen 3 Schlucke.", false);
         tasks.add(task499);
 
-        Task task500 = new Task(500, "Name1, wirf Name2 5 Mal einen Snack in den Mund. Pro gefangenem Snack darf jeder von euch einen Schluck verteilen.", false);
+        Task task500 = new Task(500, "Name1: Wirf Name2 5 Mal einen Snack in den Mund. Pro gefangenem Snack darf jeder von euch einen Schluck verteilen.", false);
         tasks.add(task500);
 
         Task task501 = new Task(501, "Die Person, welche jetzt am am meisten Prozent Akku hat, darf 4 Schlucke verteilen. (Handyverbot beachten)", false);
@@ -1528,7 +1528,7 @@ public class TaskBuilder {
         Task task505 = new Task(505, "Alle, die schonmal eine Person des gleichen Geschlechts geküsst haben trinken.", false);
         tasks.add(task505);
 
-        Task task506 = new Task(506, "Name1, stelle eine Frage. Wer sie zuerst beantwortet darf 4 Schlucke verteilen.", false);
+        Task task506 = new Task(506, "Name1: Stelle eine Frage. Wer sie zuerst beantwortet darf 4 Schlucke verteilen.", false);
         tasks.add(task506);
 
         Task task507 = new Task(507, "Alle mit blauen Augen trinken.", false);
@@ -1576,10 +1576,10 @@ public class TaskBuilder {
         Task task521 = new Task(521, "Name1 und Name2: Tauscht eure Gläser bis beide leer sind.", false);
         tasks.add(task521);
 
-        Task task522 = new Task(522, "Name1, mache einen Spagat oder trinke 5 Schlucke.", false);
+        Task task522 = new Task(522, "Name1: Mache einen Spagat oder trinke 5 Schlucke.", false);
         tasks.add(task522);
 
-        Task task523 = new Task(523, "Name1, trinke 4 Schlucke während Name2 dir ins Ohr flüstert.", false);
+        Task task523 = new Task(523, "Name1: Trinke 5 Schlucke während Name2 dir ins Ohr flüstert.", false);
         tasks.add(task523);
 
         Task task524 = new Task(524, "Jede darf so viele Schlucke verteilen, wie er/sie Vokale im Nachnamen hat.", false);
@@ -1591,7 +1591,7 @@ public class TaskBuilder {
         Task task526 = new Task(526, "Nennt Festivals in Deutschland. Name1 beginnt.", false);
         tasks.add(task526);
 
-        Task task527 = new Task(527, "Alle ohne Fahrerlaubnis trinken 2 Schlucke.", false);
+        Task task527 = new Task(527, "Alle ohne Fahrerlaubnis trinken 3 Schlucke.", false);
         tasks.add(task527);
 
         Task task528 = new Task(528, "REGEL \n Name1 wird komplett ignoriert.", true);
@@ -1606,13 +1606,13 @@ public class TaskBuilder {
         Task task531 = new Task(531, "Alle die diese Woche mehr als 100€ ausgegeben habe trinken.", false);
         tasks.add(task531);
 
-        Task task532 = new Task(532, "Name1, nenne in 20 Sekunden so viele Sachen wie möglich, die an Name2 scheiße sind. Für jede Sache muss Name2 einen trinken.", false);
+        Task task532 = new Task(532, "Name1: Nenne in 20 Sekunden so viele Sachen wie möglich, die an Name2 scheiße sind. Für jede Sache muss Name2 einen trinken.", false);
         tasks.add(task532);
 
         Task task533 = new Task(533, "Alle die es nicht schaffen den oberen Rand ihres Glases in den Mund zu nehmen trinken 4 Schlucke.", false);
         tasks.add(task533);
 
-        Task task534 = new Task(534, "REGEL \n Name1 muss Name2 anstarren.", true);
+        Task task534 = new Task(534, "REGEL \n Name1 und Name2 dürfen nur noch singend kommunizieren.", true);
         tasks.add(task534);
 
         Task task535 = new Task(535, "Name1, Name2, Name3: Alle die mal was geklaut haben trinken. Die Person mit dem wertvollsten Diebesgut darf 5 Schlucke verteilen.", false);
@@ -1624,7 +1624,7 @@ public class TaskBuilder {
         Task task537 = new Task(537, "REGEL \n Name1 muss nach jedem Schluck das Geräusch eines Tieres machen, welches Name2 aussucht.", true);
         tasks.add(task537);
 
-        Task task538 = new Task(538, "Trinke 4 Schlucke, wenn du SPAIEN noch nicht auf deinem Handy hast.", false);
+        Task task538 = new Task(538, "Trinke 5 Schlucke, wenn du SPAIEN noch nicht auf deinem Handy hast.", false);
         tasks.add(task538);
 
         Task task539 = new Task(539, "Nennt Naturkatastrophen. Name1 beginnt.", false);
@@ -1660,37 +1660,37 @@ public class TaskBuilder {
         Task task549 = new Task(549, "Die Damen wählen eine Person aus welche 4 Schlucke trinkt.", false);
         tasks.add(task549);
 
-        Task task550 = new Task(550, "Name1, trinke so viele Schlucke wie du willst. Name2 muss das doppelte trinken.", false);
+        Task task550 = new Task(550, "Name1: Trinke so viele Schlucke wie du willst. Name2 muss das Doppelte trinken.", false);
         tasks.add(task550);
 
-        Task task551 = new Task(551, "Name1, verteile so viele Schlucke wie es Singles am Tisch gibt.", false);
+        Task task551 = new Task(551, "Name1: Verteile so viele Schlucke wie es Singles am Tisch gibt.", false);
         tasks.add(task551);
 
-        Task task552 = new Task(552, "Name1, sei kreativ und denk dir eine Kategorie aus!", false);
+        Task task552 = new Task(552, "Name1: Sei kreativ und denk dir eine Kategorie aus!", false);
         tasks.add(task552);
 
-        Task task553 = new Task(553, "Name1, sei kreativ und denk dir eine Kategorie aus!", false);
+        Task task553 = new Task(553, "Name1: Sei kreativ und denk dir eine Kategorie aus!", false);
         tasks.add(task553);
 
-        Task task554 = new Task(554, "Name1, sei kreativ und denk dir eine Kategorie aus!", false);
+        Task task554 = new Task(554, "Name1: Sei kreativ und denk dir eine Kategorie aus!", false);
         tasks.add(task554);
 
-        Task task555 = new Task(555, "Name1, sei kreativ und denk dir eine Kategorie aus!", false);
+        Task task555 = new Task(555, "Name1: Sei kreativ und denk dir eine Kategorie aus!", false);
         tasks.add(task555);
 
         Task task556 = new Task(556, "Nennt Notrufnummern. Name1 beginnt.", false);
         tasks.add(task556);
 
-        Task task557 = new Task(557, "Nennt Buchhandlungen in Wiesmoor. Name1 beginnt.", false);
+        Task task557 = new Task(557, "Nennt Buchhandlungen. Name1 beginnt.", false);
         tasks.add(task557);
 
-        Task task558 = new Task(558, "Nennt Terroranschläge in Europa und den USA. Name1 beginnt.", false);
+        Task task558 = new Task(558, "Nennt Wahrzeichen europäischer Städte inkl. der Stadt. Name1 beginnt.", false);
         tasks.add(task558);
 
-        Task task559 = new Task(559, "Nennt Kindergärten in Wiesmoor. Name1 beginnt.", false);
+        Task task559 = new Task(559, "Nennt Sportartikelhersteller. Name1 beginnt.", false);
         tasks.add(task559);
 
-        Task task560 = new Task(560, "Nennt Grundschulen in Wiesmoor. Name1 beginnt.", false);
+        Task task560 = new Task(560, "Nennt Möbelhäuser. Name1 beginnt.", false);
         tasks.add(task560);
 
         Task task561 = new Task(561, "Nennt Menschen in diesem Raum. Name1 beginnt.", false);
@@ -1705,7 +1705,7 @@ public class TaskBuilder {
         Task task564 = new Task(564, "Name1 muss die Handfläche von Name2 ablecken, oder 5 Schlucke trinken.", false);
         tasks.add(task564);
 
-        Task task565 = new Task(565, "Name1, trinke ein rohes Ei oder 5 Schlucke.", false);
+        Task task565 = new Task(565, "Name1: Trinke ein rohes Ei oder 6 Schlucke.", false);
         tasks.add(task565);
 
         Task task566 = new Task(566, "Alle die gerade eine Kette tragen trinken.", false);
@@ -1729,10 +1729,10 @@ public class TaskBuilder {
         Task task572 = new Task(572, "Name1 und Name2: Wer war dieses Jahr auf mehr Konzerten? Diese Person darf 5 Schlucke verteilen.", false);
         tasks.add(task572);
 
-        Task task573 = new Task(573, "Wer hat den längsten Snapchat streak? Die Person verteilt 8 Schlucke.", false);
+        Task task573 = new Task(573, "Wer hat den längsten Snapchat streak? Die Person verteilt 6 Schlucke.", false);
         tasks.add(task573);
 
-        Task task574 = new Task(574, "Name1, zünde deine Kopfhaare an oder trinke 2 Schlucke.", false);
+        Task task574 = new Task(574, "Name1: Zünde deine Kopfhaare an oder trinke 2 Schlucke.", false);
         tasks.add(task574);
 
         Task task575 = new Task(575, "Wer hat diese Woche am meisten Sport gemacht? Diese Person trinkt 4 Schlucke.", false);
@@ -1750,7 +1750,7 @@ public class TaskBuilder {
         Task task579 = new Task(579, "Nennt Farben von Bananen. Name1 beginnt.", false);
         tasks.add(task579);
 
-        Task task580 = new Task(580, "Wer ist heute am frühesten aufgestanden? Diese Person verteilt 8 Schlucke.", false);
+        Task task580 = new Task(580, "Wer ist heute am frühesten aufgestanden? Diese Person verteilt 7 Schlucke.", false);
         tasks.add(task580);
 
         Task task581 = new Task(581, "Wer ist heute am spätesten aufgestanden? Diese Person trinkt 3 Schlucke.", false);
@@ -1759,7 +1759,7 @@ public class TaskBuilder {
         Task task582 = new Task(582, "Nennt Ziffern der Zahl Pi. Name1 beginnt.", false);
         tasks.add(task582);
 
-        Task task583 = new Task(583, "Die Person die am schnellsten der Raum verlässt verteilt 8 Schlucke.", false);
+        Task task583 = new Task(583, "Die Person die am schnellsten der Raum verlässt verteilt 7 Schlucke.", false);
         tasks.add(task583);
 
         Task task584 = new Task(584, "Wer ist cooler? Name1 oder Name2? Stimmt ab! Die gewählte Person verteilt 4 Schlucke.", false);
@@ -1771,7 +1771,7 @@ public class TaskBuilder {
         Task task586 = new Task(586, "Wer ist gewaltbereiter? Name1 oder Name2? Stimmt ab! Die gewählte Person verteilt 4 Schlucke.", false);
         tasks.add(task586);
 
-        Task task587 = new Task(587, "Wer ist hässlicher? Name1 oder Name2? Stimmt ab! Die gewählte Person trinkt 3 Schlucke.", false);
+        Task task587 = new Task(587, "Wer ist gemeiner? Name1 oder Name2? Stimmt ab! Die gewählte Person trinkt 3 Schlucke.", false);
         tasks.add(task587);
 
         Task task588 = new Task(588, "Wer ist der größere Moralapostel? Name1 oder Name2? Stimmt ab! Die gewählte Person trinkt 3 Schlucke.", false);
@@ -1792,7 +1792,7 @@ public class TaskBuilder {
         Task task593 = new Task(593, "Name1 versucht 4 Mal einen Snack im hohen Bogen mit dem Mund zu fangen. Pro gefangenem Snack darf er/sie 2 Schlucke verteilen.", false);
         tasks.add(task593);
 
-        Task task594 = new Task(594, "Pro Katze im Raum darf Name1 5 Schlucke verteilen.", false);
+        Task task594 = new Task(594, "Pro Katze im Raum darf Name1 4 Schlucke verteilen.", false);
         tasks.add(task594);
 
         Task task595 = new Task(595, "REGEL \n Name1 muss beim trinken Name2 anfassen.", true);
@@ -1840,7 +1840,7 @@ public class TaskBuilder {
         Task task609 = new Task(609, "Alle deren Handy auf dem Tisch liegt trinken.", false);
         tasks.add(task609);
 
-        Task task610 = new Task(610, "Name1, verteile so viele Schlucke wie du Geschwister hast.", false);
+        Task task610 = new Task(610, "Name1: Verteile so viele Schlucke wie du Geschwister hast.", false);
         tasks.add(task610);
 
         Task task611 = new Task(611, "Alle Herren trinken 2 Schlucke.", false);
@@ -1864,7 +1864,7 @@ public class TaskBuilder {
         Task task617 = new Task(617, "REGEL \n Name1 darf nur sprechen, wenn Name2 es erlaubt", true);
         tasks.add(task617);
 
-        Task task618 = new Task(618, "Name1, verteile 5 Schlucke an eine Person die intelligenter als du ist, oder trinke selbst 5 Schlucke.", false);
+        Task task618 = new Task(618, "Name1, verteile 5 Schlucke an eine Person die intelligenter ist als du, oder trinke selbst 5 Schlucke.", false);
         tasks.add(task618);
 
         Task task619 = new Task(619, "Wer ist nüchterner? Name1 oder Name2? Die gewählte Person trinkt 5 Schlucke.", false);
@@ -1888,13 +1888,13 @@ public class TaskBuilder {
         Task task625 = new Task(625, "Die Person, der das SPAIEN-Handy gehört verteilt 8 Schlucke.", false);
         tasks.add(task625);
 
-        Task task626 = new Task(626, "Nennt Zutaten für einen Fako. Name1 beginnt.", false);
+        Task task626 = new Task(626, "Nennt Zutaten für einen Fanta-Korn. Name1 beginnt.", false);
         tasks.add(task626);
 
-        Task task627 = new Task(627, "Wer war als letztes Schwimmen? Diese Person verteilt 5 Schlucke.", false);
+        Task task627 = new Task(627, "Wer war als letztes Schwimmen? Diese Person verteilt 4 Schlucke.", false);
         tasks.add(task627);
 
-        Task task628 = new Task(628, "Alle trinken auf L. Brunken, S. Dirks, D. Müller und D. Schroeder. ", false);
+        Task task628 = new Task(628, "Alle die SPAIEN einem Freund weiterempfehlen würden verteilen 1 Schluck.", false);
         tasks.add(task628);
 
         Task task629 = new Task(629, "Name1 darf 5 Schlucke verteilen.", false);
@@ -1927,19 +1927,19 @@ public class TaskBuilder {
         Task task638 = new Task(638, "Name1 muss 2 Schlucke trinken.", false);
         tasks.add(task638);
 
-        Task task639 = new Task(639, "Name1, lass dir einen Zahn ziehen oder trinke 4 Schlucke.", false);
+        Task task639 = new Task(639, "Name1: Lass dir einen Zahn ziehen oder trinke 4 Schlucke.", false);
         tasks.add(task639);
 
-        Task task640 = new Task(640, "Name1, zieh dein Oberteil aus oder trinke 5 Schlucke.", false);
+        Task task640 = new Task(640, "Name1: Zieh dein Oberteil aus oder trinke 5 Schlucke.", false);
         tasks.add(task640);
 
-        Task task641 = new Task(641, "Name1, zieh dein Oberteil aus oder trinke 5 Schlucke.", false);
+        Task task641 = new Task(641, "Name1: Zieh dein Oberteil aus oder trinke 5 Schlucke.", false);
         tasks.add(task641);
 
-        Task task642 = new Task(642, "Name1, zieh dein Oberteil aus oder trinke 5 Schlucke.", false);
+        Task task642 = new Task(642, "Name1: Zieh dein Oberteil aus oder trinke 5 Schlucke.", false);
         tasks.add(task642);
 
-        Task task643 = new Task(643, "Name1, massiere Name2 2 Minuten den Nacken, oder trinke 3 Schlucke.", false);
+        Task task643 = new Task(643, "Name1: Massiere Name2 2 Minuten den Nacken, oder trinke 3 Schlucke.", false);
         tasks.add(task643);
 
         Task task644 = new Task(644, "Name1 und Name2 trinken pro Leuchte im Raum 1 Schluck.", false);
@@ -1957,10 +1957,10 @@ public class TaskBuilder {
         Task task648 = new Task(648, "Die Person mit den meisten Haaren am Körper trinkt 5 Schlucke.", false);
         tasks.add(task648);
 
-        Task task649 = new Task(649, "Alle die gerade Ohrring tragen trinken die Anzahl an Ohrringen die sie tragen..", false);
+        Task task649 = new Task(649, "Alle die gerade Ohrring tragen trinken die Anzahl an Ohrringen die sie tragen.", false);
         tasks.add(task649);
 
-        Task task650 = new Task(650, "Name1, wenn du beschnitten bist verteile 4 Schlucke. Wenn nicht, lasse dich von Name2 beschneiden oder trinke 4 Schlucke.", false);
+        Task task650 = new Task(650, "Name1: Wenn du beschnitten bist verteile 4 Schlucke. Wenn nicht, lasse dich von Name2 beschneiden oder trinke 4 Schlucke.", false);
         tasks.add(task650);
 
         Task task651 = new Task(651, "Name1, verteile 4 Schlucke an eine Person die mehr wiegt als du.", false);
@@ -1972,25 +1972,25 @@ public class TaskBuilder {
         Task task653 = new Task(653, "Nennt Länder in denen Name1 schonmal war. Name2 beginnt.", false);
         tasks.add(task653);
 
-        Task task654 = new Task(654, "Alle die heute noch in einen Club gehen trinken 2 Schlucke. ", false);
+        Task task654 = new Task(654, "Alle die heute noch in einen Club gehen trinken 2 Schlucke.", false);
         tasks.add(task654);
 
-        Task task655 = new Task(655, "Name1, wem würdest du eher dein Kind anvertrauen, Name2 oder Name3? Die gewählte Person darf 8 Schlucke verteilen.", false);
+        Task task655 = new Task(655, "Name1: Wem würdest du eher dein Kind anvertrauen, Name2 oder Name3? Die gewählte Person darf 6 Schlucke verteilen.", false);
         tasks.add(task655);
 
-        Task task656 = new Task(656, "Wen würdet ihr eher mit auf eine einsame Insel mitnehmen, Name1 oder Name2? Stimmt ab! Die gewählte Person darf 5 Schlucke verteilen.", false);
+        Task task656 = new Task(656, "Wen würdet ihr eher mit auf eine einsame Insel mitnehmen? Name1 oder Name2? Stimmt ab! Die gewählte Person darf 5 Schlucke verteilen.", false);
         tasks.add(task656);
 
         Task task657 = new Task(657, "Alle die ein Instrument spielen trinken.", false);
         tasks.add(task657);
 
-        Task task658 = new Task(658, "Nennt Lieder von ABBA. Name1 beginnt.", false);
+        Task task658 = new Task(658, "Nennt Lieder von Helene Fischer. Name1 beginnt.", false);
         tasks.add(task658);
 
         Task task659 = new Task(659, "Wer war als letztes beim Zahnarzt? Diese Person darf 5 Schlucke verteilen.", false);
         tasks.add(task659);
 
-        Task task660 = new Task(660, "Name1 und Name2, wer sitzt als erstes auf dem Schoß von Name3? Die Person darf 7 Schlucke verteilen.", false);
+        Task task660 = new Task(660, "Name1 und Name2: Wer sitzt als erstes auf dem Schoß von Name3? Die Person darf 6 Schlucke verteilen.", false);
         tasks.add(task660);
 
         Task task661 = new Task(661, "Alle, die sich gerade weiter als 100km von ihrem Wohnsitz befinden, verteilen 8 Schlucke.", false);
@@ -2002,7 +2002,7 @@ public class TaskBuilder {
         Task task663 = new Task(663, "Wer wäre der bessere Bestatter? Name1 oder Name2? Die gewählte Person darf 5 Schlucke verteilen.", false);
         tasks.add(task663);
 
-        Task task664 = new Task(664, "Wer hatte als letztes einen Sparschäler in der Hand? Diese Person darf 4 Schlucke verteilen.", false);
+        Task task664 = new Task(664, "Wer hatte als letztes einen Sparschäler in der Hand? Diese Person darf 3 Schlucke verteilen.", false);
         tasks.add(task664);
 
         Task task665 = new Task(665, "Nennt Ozeane. Name1 beginnt.", false);
@@ -2020,7 +2020,7 @@ public class TaskBuilder {
         Task task669 = new Task(669, "Nennt Möbel mit Scharnier. Name1 beginnt.", false);
         tasks.add(task669);
 
-        Task task670 = new Task(670, "Nennt Brücken in Wiesmoor. Name1 beginnt.", false);
+        Task task670 = new Task(670, "Nennt berühmte Brücken. Name1 beginnt.", false);
         tasks.add(task670);
 
         Task task671 = new Task(671, "SHOTS!", false);
@@ -2041,13 +2041,13 @@ public class TaskBuilder {
         Task task676 = new Task(676, "Alle außer Name1 trinken.", false);
         tasks.add(task676);
 
-        Task task677 = new Task(677, "Die Person, die am nächsten zur Tür sitzt, trinkt 4 Schlucke.", false);
+        Task task677 = new Task(677, "Die Person, die am nähesten zur Tür sitzt, trinkt 4 Schlucke.", false);
         tasks.add(task677);
 
-        Task task678 = new Task(678, "Die Person, die als erstes einer ihrer Socken auf dem Kopf hat, verteilt 8 Schlucke.", false);
+        Task task678 = new Task(678, "Die Person, die als erstes einer ihrer Socken auf dem Kopf hat, verteilt 7 Schlucke.", false);
         tasks.add(task678);
 
-        Task task679 = new Task(679, "Der/Die Erste der/die lacht trinkt 3 Schlucke.", false);
+        Task task679 = new Task(679, "Der/Die Erste der/die ab jetzt lacht trinkt 4 Schlucke.", false);
         tasks.add(task679);
 
         Task task680 = new Task(680, "Die Person, die als erstes mit einem Bein auf dem Stuhl steht, verteilt 8 Schlucke.", false);
@@ -2056,7 +2056,7 @@ public class TaskBuilder {
         Task task681 = new Task(681, "Die Person rechts von Name1 verteilt 5 Schlucke.", false);
         tasks.add(task681);
 
-        Task task682 = new Task(682, "Die Person, die gerade am meisten Bargeld mit sich führt verteilt 5 Schlucke.", false);
+        Task task682 = new Task(682, "Wer führt gerade am meisten Bargeld mit sich? Diese Person verteilt 5 Schlucke und gibt Einen aus!", false);
         tasks.add(task682);
 
         Task task683 = new Task(683, "Nennt Städte in Polen. Name1 beginnt.", false);
@@ -2074,7 +2074,7 @@ public class TaskBuilder {
         Task task687 = new Task(687, "Nennt Bahnhöfe in Ostfriesland. Name1 beginnt.", false);
         tasks.add(task687);
 
-        Task task688 = new Task(688, "Name1, verteile 2 Shots.", false);
+        Task task688 = new Task(688, "Name1: Verteile 2 Shots.", false);
         tasks.add(task688);
 
         Task task689 = new Task(689, "Nennt Griechische Buchstaben. Name1 beginnt.", false);
@@ -2086,7 +2086,7 @@ public class TaskBuilder {
         Task task691 = new Task(691, "Die Person rechts von Name1 trinkt 5 Schlucke.", false);
         tasks.add(task691);
 
-        Task task692 = new Task(692, "Name1: Stecke einen Nagel mit bloßer Hand in die Steckdose oder trinke 4 Schlucke. ", false);
+        Task task692 = new Task(692, "Name1: Stecke einen Nagel mit bloßer Hand in die Steckdose oder trinke 3 Schlucke. ", false);
         tasks.add(task692);
 
         Task task693 = new Task(693, "Nennt Wildkatzen. Name1 beginnt.", false);
@@ -2113,7 +2113,7 @@ public class TaskBuilder {
         Task task700 = new Task(700, "Alle, die schonmal einen Wildunfall hatten trinken.", false);
         tasks.add(task700);
 
-        Task task701 = new Task(701, "Alle die schonmal selbst ein Möbelstück gebaut haben trinken.", false);
+        Task task701 = new Task(701, "Alle, die schonmal selbst ein Möbelstück gebaut haben trinken.", false);
         tasks.add(task701);
 
         Task task702 = new Task(702, "Nennt Sachen, die Name1 im Portemonnaie hat. Name2 beginnt.", false);
@@ -2134,7 +2134,7 @@ public class TaskBuilder {
         Task task707 = new Task(707, "Name1, Name2, Name3 und Name4 befüllen ein Todesglas. Der Name, der als nächstes bei SPAIEN genannt wird, darf entscheiden wer es trinken muss.", false);
         tasks.add(task707);
 
-        Task task708 = new Task(708, "Name1, lass dir von Name2 Deo in die Augen sprühen, oder trinke 5 Schlucke.", false);
+        Task task708 = new Task(708, "Name1, lass dir von Name2 Deo in die Augen sprühen, oder trinke 2 Schlucke.", false);
         tasks.add(task708);
 
         Task task709 = new Task(709, "Welche/r Mitspieler/in hat die dunkelste Hautfarbe? Stimmt ab! Diese Person darf 5 Schlucke verteilen.", false);
@@ -2152,10 +2152,10 @@ public class TaskBuilder {
         Task task713 = new Task(713, "Nennt Superhelden. Name1 beginnt.", false);
         tasks.add(task713);
 
-        Task task714 = new Task(714, "Name1, trinke Nagellack, oder 4 Schlucke.", false);
+        Task task714 = new Task(714, "Name1: Trinke Nagellack, oder 3 Schlucke.", false);
         tasks.add(task714);
 
-        Task task715 = new Task(715, "Die Person, die als letztes beim Frisör war verteilt 3 Schlucke.", false);
+        Task task715 = new Task(715, "Wer war als letztes beim Frisör? Diese Person verteilt 3 Schlucke.", false);
         tasks.add(task715);
 
         Task task716 = new Task(716, "Alle Veganer/Vegetarier trinken 5 Schlucke.", false);
@@ -2167,25 +2167,25 @@ public class TaskBuilder {
         Task task718 = new Task(718, "Alle Leute im Raum, welche sich ein Spotify Familienaccount teilen, trinken pro Mitglied 1 Schluck.", false);
         tasks.add(task718);
 
-        Task task719 = new Task(719, "Name1, lass dir von Name2 ein Ohrloch stechen, oder trinke 6 Schlucke.", false);
+        Task task719 = new Task(719, "Name1, lass dir von Name2 ein Ohrloch stechen, oder trinke 4 Schlucke.", false);
         tasks.add(task719);
 
-        Task task720 = new Task(720, "Name1, rasiere dir eine Augenbraue ab, oder trinke 4 Schlucke", false);
+        Task task720 = new Task(720, "Name1, rasiere dir eine Augenbraue ab, oder trinke 3 Schlucke.", false);
         tasks.add(task720);
 
-        Task task721 = new Task(721, "Alle die T-Shirt tragen trinken", false);
+        Task task721 = new Task(721, "Alle die T-Shirt tragen trinken.", false);
         tasks.add(task721);
 
         Task task722 = new Task(722, "Alle die Löcher in ihrer Hose haben trinken 4 Schlucke.", false);
         tasks.add(task722);
 
-        Task task723 = new Task(723, "Nennt Mittelnamen von Mitspielern. Name1 beginnt", false);
+        Task task723 = new Task(723, "Nennt Mittelnamen von Mitspielern. Name1 beginnt.", false);
         tasks.add(task723);
 
         Task task724 = new Task(724, "Nennt Blutgruppen. Name1 beginnt.", false);
         tasks.add(task724);
 
-        Task task725 = new Task(725, "Nennt aktuelle Ministerpräsidenten inklusive ihrer Bundesländer. Name1 beginnt.", false);
+        Task task725 = new Task(725, "Nennt aktuelle Ministerpräsidenten inkl. ihrer Bundesländer. Name1 beginnt.", false);
         tasks.add(task725);
 
         Task task726 = new Task(726, "SHOTS!", false);
@@ -2224,13 +2224,13 @@ public class TaskBuilder {
         Task task737 = new Task(737, "Nennt Bären. Name1 beginnt.", false);
         tasks.add(task737);
 
-        Task task738 = new Task(738, "Name1 startet einen Wasserfall", false);
+        Task task738 = new Task(738, "Name1 startet einen Wasserfall.", false);
         tasks.add(task738);
 
         Task task739 = new Task(739, "Die Person rechts von Name1 trinkt 2 Schlucke.", false);
         tasks.add(task739);
 
-        Task task740 = new Task(740, "Alle dürfen für jeden Tampon, den man dabei hat, einen Schluck verteilen", false);
+        Task task740 = new Task(740, "Alle dürfen für jeden Tampon, den man dabei hat, einen Schluck verteilen.", false);
         tasks.add(task740);
 
         Task task741 = new Task(741, "SHOTS!", false);
@@ -2242,7 +2242,7 @@ public class TaskBuilder {
         Task task743 = new Task(743, "SHOTS!", false);
         tasks.add(task743);
 
-        Task task744 = new Task(744, "Name1, mache 15 Liegestütze. Für jede die du nicht schaffst, trinke einen Schluck.", false);
+        Task task744 = new Task(744, "Name1: Mache 15 Liegestütze. Trinke für jede die du nicht schaffst einen Schluck.", false);
         tasks.add(task744);
 
         Task task745 = new Task(745, "Das Team von SPAIEN freut sich immer über Feedback! Alle trinken!", false);
@@ -2257,31 +2257,31 @@ public class TaskBuilder {
         Task task748 = new Task(748, "Nennt Bundespräsidenten. Name1 beginnt.", false);
         tasks.add(task748);
 
-        Task task749 = new Task(749, "Alle, die in den letzten 6 Monaten geflogen sind trinken 3 Schlucke.", false);
+        Task task749 = new Task(749, "Alle, die in den letzten 6 Monaten geflogen sind trinken 4 Schlucke.", false);
         tasks.add(task749);
 
         Task task750 = new Task(750, "Alle, die in den letzten 2 Monaten das Land verlassen haben trinken 2 Schlucke.", false);
         tasks.add(task750);
 
-        Task task751 = new Task(751, "Nennt christliche Feiertage. Name1 beginnt", false);
+        Task task751 = new Task(751, "Nennt christliche Feiertage. Name1 beginnt.", false);
         tasks.add(task751);
 
-        Task task752 = new Task(752, "Nennt jüdische Feiertage. Name1 beginnt", false);
+        Task task752 = new Task(752, "Nennt jüdische Feiertage. Name1 beginnt.", false);
         tasks.add(task752);
 
-        Task task753 = new Task(753, "Nennt muslimische Feiertage. Name1 beginnt", false);
+        Task task753 = new Task(753, "Nennt muslimische Feiertage. Name1 beginnt.", false);
         tasks.add(task753);
 
-        Task task754 = new Task(754, "Name1 startet einen Wasserfall", false);
+        Task task754 = new Task(754, "Name1 startet einen Wasserfall.", false);
         tasks.add(task754);
 
-        Task task755 = new Task(755, "Alle Personen, die sich schon Mal über langsames Internet aufgeregt haben, trinken 3 Schlucke", false);
+        Task task755 = new Task(755, "Alle Personen, die sich schon Mal über langsames Internet aufgeregt haben, trinken 2 Schlucke.", false);
         tasks.add(task755);
 
         Task task756 = new Task(756, "Alle außer Name1 und Name2 trinken 2 Schlucke.", false);
         tasks.add(task756);
 
-        Task task757 = new Task(757, "Mit wem würdet ihr am ehesten eine Woche im Bett verbringen wollen? Stimmt ab! Die gewählte Person trinkt 4 Schlucke", false);
+        Task task757 = new Task(757, "Mit wem würdet ihr am ehesten eine Woche im Bett verbringen wollen? Stimmt ab! Die gewählte Person trinkt 4 Schlucke.", false);
         tasks.add(task757);
 
         Task task758 = new Task(758, "Name1: Wen würdest du lieber würgen? Name2, oder Name3? Die gewählte Person trinkt 4 Schlucke.", false);
@@ -2314,7 +2314,7 @@ public class TaskBuilder {
         Task task767 = new Task(767, "Alle trinken für jede Person im Raum, welche nicht mitspielt, einen Schluck.", false);
         tasks.add(task767);
 
-        Task task768 = new Task(768, "Name1: Mache 7 Kniebeugen und trinke nach jeder einen Schluck.", false);
+        Task task768 = new Task(768, "Name1: Mache 6 Kniebeugen und trinke nach jeder einen Schluck.", false);
         tasks.add(task768);
 
         Task task769 = new Task(769, "Nennt Moderatorinnen (W). Name1 beginnt.", false);
@@ -2323,31 +2323,31 @@ public class TaskBuilder {
         Task task770 = new Task(770, "Nennt Wissenschaftlerinnen (W). Name1 beginnt.", false);
         tasks.add(task770);
 
-        Task task771 = new Task(771, "Name1: Nenne einen Gegenstand im Raum. Die Person, welche diesen als erstes berührt, darf 8 Schlucke verteilen.", false);
+        Task task771 = new Task(771, "Name1: Nenne einen Gegenstand im Raum. Die Person, welche diesen als erstes berührt, darf 7 Schlucke verteilen.", false);
         tasks.add(task771);
 
-        Task task772 = new Task(772, "Name1 trinkt für jedes Haustier, welches er/sie hat, 2 Schlucke (Max. 10 Schlucke)", false);
+        Task task772 = new Task(772, "Name1 trinkt für jedes Haustier, welches er/sie hat, 2 Schlucke. (Max. 8 Schlucke)", false);
         tasks.add(task772);
 
-        Task task773 = new Task(773, "Name1, halte einen Handstand für 3 Sekunden! Geschafft: 6 verteilen. Nicht: 4 selbst", false);
+        Task task773 = new Task(773, "Name1: Halte einen Handstand für 3 Sekunden! Geschafft: 6 verteilen. Nicht: 4 selbst.", false);
         tasks.add(task773);
 
-        Task task774 = new Task(774, "Name1: Baue aus vier Flaschen vom Tisch einen Turm, welcher mindestens 8 Sekunden stehen muss. Geschafft: 10 verteilen. Nicht: 3 selbst", false);
+        Task task774 = new Task(774, "Name1: Baue aus vier Flaschen vom Tisch einen Turm, welcher mindestens 8 Sekunden stehen muss. Geschafft: 8 verteilen. Nicht: 3 selbst", false);
         tasks.add(task774);
 
         Task task775 = new Task(775, "Exe dein Glas, wen es ein YouTube Video mit dir gibt, welches mehr als 20K Aufrufe hat.", false);
         tasks.add(task775);
 
-        Task task776 = new Task(776, "Alle, die diesen Monat Geburtstag haben, verteilen 8 Schlucke. ", false);
+        Task task776 = new Task(776, "Alle, die diesen Monat Geburtstag haben, verteilen 6 Schlucke. ", false);
         tasks.add(task776);
 
-        Task task777 = new Task(777, "Name1 sinkt ein Lied mit vollem Mund (Getränk oder Essen). Die erste Person, die das Lied erkennt verteilt 6 Schlucke.", false);
+        Task task777 = new Task(777, "Name1 singt ein Lied mit vollem Mund (Getränk oder Essen). Die erste Person, die das Lied erkennt verteilt 5 Schlucke.", false);
         tasks.add(task777);
 
         Task task778 = new Task(778, "Die Person mit dem vollsten Glas verteilt 5 schlucke.", false);
         tasks.add(task778);
 
-        Task task779 = new Task(779, "Name1, Nenne Exfreunde/innen von Name2. Für jede/n genannten darfst du einen Schluck verteilen.", false);
+        Task task779 = new Task(779, "Name1: Nenne Exfreunde/innen von Name2. Für jede/n genannten darfst du einen Schluck verteilen.", false);
         tasks.add(task779);
 
         Task task780 = new Task(780, "Name1 muss 6 Folien lang stellvertretend alle Schlucke trinken, welche eigentlich Name2 trinken müsste. ", false);
@@ -2371,19 +2371,19 @@ public class TaskBuilder {
         Task task786 = new Task(786, "Name1, verteile so viele Schlucke, wie leere Gläser auf dem Tisch stehen.", false);
         tasks.add(task786);
 
-        Task task787 = new Task(787, "Name1: Stelle ein Bild deines Glases in deine Story mit der Überschrift „SPAIEN ist das beste Trinkspiel der Welt!“, oder exe dein Glas", false);
+        Task task787 = new Task(787, "Name1: Stelle ein Bild deines Glases in deine Story mit der Überschrift „SPAIEN“, oder exe dein Glas.", false);
         tasks.add(task787);
 
-        Task task788 = new Task(788, "Name1: Stelle ein Bild deines Glases in deine Story mit der Überschrift „SPAIEN ist das beste Trinkspiel der Welt!“, oder exe dein Glas", false);
+        Task task788 = new Task(788, "Name1: Stelle ein Bild deines Glases in deine Story mit der Überschrift „SPAIEN“, oder exe dein Glas.", false);
         tasks.add(task788);
 
-        Task task789 = new Task(789, "Name1: Bestimme, wer 4 Schlucke aus deinem Glas trinken darf.", false);
+        Task task789 = new Task(789, "Name1: Bestimme wer 4 Schlucke aus deinem Glas trinken darf.", false);
         tasks.add(task789);
 
         Task task790 = new Task(790, "Name1: Geh durch die Tür aus dem Raum und klettere durchs Fenster wieder rein, oder trinke 8 Schlucke.", false);
         tasks.add(task790);
 
-        Task task791 = new Task(791, "Name1: Klettere aus dem Fenster und komme durch die Tür wieder in den Raum, oder trinke 8 Shlucke.", false);
+        Task task791 = new Task(791, "Name1: Klettere aus dem Fenster und komme durch die Tür wieder in den Raum, oder trinke 6 Schlucke.", false);
         tasks.add(task791);
 
         Task task792 = new Task(792, "Name1 muss 6 Folien lang stellvertretend alle Schlucke trinken, welche eigentlich Name2 trinken müsste.", true);
@@ -2398,94 +2398,94 @@ public class TaskBuilder {
         Task task795 = new Task(795, "Alle die Nagellack tragen, trinken 4 Schlucke.", false);
         tasks.add(task795);
 
-        Task task796 = new Task(796, "Alle Mitspielenden, welche ihr Handy in der Hand, oder auf dem Tisch haben, trinken 5 Schlucke", false);
+        Task task796 = new Task(796, "Alle Mitspielenden, welche ihr Handy in der Hand, oder auf dem Tisch haben, trinken 5 Schlucke.", false);
         tasks.add(task796);
 
-        Task task797 = new Task(797, "Alle Mitspielenden, welche ihr Handy in der Hand, oder auf dem Tisch haben, trinken 5 Schlucke", false);
+        Task task797 = new Task(797, "Alle Mitspielenden, welche ihr Handy in der Hand, oder auf dem Tisch haben, trinken 5 Schlucke.", false);
         tasks.add(task797);
 
-        Task task798 = new Task(798, "Name1: Wirf einen Deckel vom Ende des Raumes (Max. 5m) in den Glas. 3 Versuche. Geschafft: 10 verteilen. Nicht: 4 trinken", false);
+        Task task798 = new Task(798, "Name1: Wirf einen Deckel aus 3-5m in dein Glas. 3 Versuche. Geschafft: 8 verteilen. Nicht: 4 trinken.", false);
         tasks.add(task798);
 
         Task task799 = new Task(799, "Nennt Farben eines klassischen Schachbretts. Name1 beginnt.", false);
         tasks.add(task799);
 
-        Task task800 = new Task(800, "Name1: Löse alle Schrauben des Tisches, oder trinke 6 Schlucke.", false);
+        Task task800 = new Task(800, "Name1: Löse alle Schrauben des Tisches oder trinke 5 Schlucke.", false);
         tasks.add(task800);
 
         Task task801 = new Task(801, "Wer ist der schlechteste Verlierer? Stimmt ab! Die gewählte Person trinkt 5 Schlucke.", false);
         tasks.add(task801);
 
-        Task task802 = new Task(802, "Wer hat das älteste Personalausweis Bild? Zeigen! Diese Person verteilt 8 Schlucke.", false);
+        Task task802 = new Task(802, "Wer hat das älteste Personalausweisbiild? Zeigen! Diese Person verteilt 7 Schlucke.", false);
         tasks.add(task802);
 
-        Task task803 = new Task(803, "Name1: Verpflichte dich für 15 Jahre bei der Bundeswehr, oder trinke 1,75 Schlucke.", false);
+        Task task803 = new Task(803, "Name1: Verpflichte dich jetzt für 15 Jahre bei der Bundeswehr oder trinke 1,5 Schlucke.", false);
         tasks.add(task803);
 
-        Task task804 = new Task(804, "Name1: Staubsauge das Zimmer oder trinke 8 Schlucke.", false);
+        Task task804 = new Task(804, "Name1: Staubsauge das Zimmer oder trinke 4 Schlucke.", false);
         tasks.add(task804);
 
-        Task task805 = new Task(805, "Name1: Putze alle Fenster im Zimmer, oder trinke 8 Schlucke.", false);
+        Task task805 = new Task(805, "Name1: Putze alle Fenster im Zimmer, oder trinke 5 Schlucke.", false);
         tasks.add(task805);
 
-        Task task806 = new Task(806, "Name1 und Name2: Wer als erstes von euch Name3 auf die Schulter haut, darf 8 Schlucke verteilen.", false);
+        Task task806 = new Task(806, "Name1 und Name2: Wer als erstes von euch Name3 auf die Schulter haut, darf 7 Schlucke verteilen.", false);
         tasks.add(task806);
 
-        Task task807 = new Task(807, "Name1 und Name2: Wer als erstes von euch Name3 auf den Oberschenkel haut, darf 8 Schlucke verteilen.", false);
+        Task task807 = new Task(807, "Name1 und Name2: Wer als erstes von euch Name3 auf den Oberschenkel haut, darf 7 Schlucke verteilen.", false);
         tasks.add(task807);
 
-        Task task808 = new Task(808, "Name1 und Name2: Wer als erstes von euch Name3 auf den Mund küsst, darf 8 Schlucke verteilen.", false);
+        Task task808 = new Task(808, "Name1 und Name2: Wer als erstes von euch Name3 auf den Mund küsst, darf 7 Schlucke verteilen.", false);
         tasks.add(task808);
 
-        Task task809 = new Task(809, "Name1 und Name2: Wer als erstes von euch Name3 auf den Mund küsst, darf 8 Schlucke verteilen.", false);
+        Task task809 = new Task(809, "Name1 und Name2: Wer als erstes von euch Name3 auf den Mund küsst, darf 7 Schlucke verteilen.", false);
         tasks.add(task809);
 
-        Task task810 = new Task(810, "Name1: Ruf beim Tierarzt an und frage bis wieviel Kg sie einschläfern, oder trinke 5 Schlucke", false);
+        Task task810 = new Task(810, "Name1: Ruf beim Tierarzt an und frage bis wieviel Kg sie einschläfern, oder trinke 4 Schlucke", false);
         tasks.add(task810);
 
-        Task task811 = new Task(811, "Name1: Zieh ein Kleidungsstück aus, oder trinke 8 Schlucke.", false);
+        Task task811 = new Task(811, "Name1: Zieh ein Kleidungsstück aus, oder trinke 6 Schlucke.", false);
         tasks.add(task811);
 
-        Task task812 = new Task(812, "Name1: Zieh ein Kleidungsstück aus, oder trinke 8 Schlucke.", false);
+        Task task812 = new Task(812, "Name1: Zieh ein Kleidungsstück aus, oder trinke 6 Schlucke.", false);
         tasks.add(task812);
 
-        Task task813 = new Task(813, "Name1: Zieh ein Kleidungsstück aus, oder trinke 8 Schlucke.", false);
+        Task task813 = new Task(813, "Name1: Zieh ein Kleidungsstück aus, oder trinke 6 Schlucke.", false);
         tasks.add(task813);
 
-        Task task814 = new Task(814, "Der/Die Erste die lacht trinkt 3 Schlucke.", false);
+        Task task814 = new Task(814, "Der/Die Erste die lacht trinkt 5 Schlucke.", false);
         tasks.add(task814);
 
-        Task task815 = new Task(815, "Für jedes Apple Produkt im Raum trinkt Name1 einen Schluck", false);
+        Task task815 = new Task(815, "Für jedes Apple Produkt im Raum trinkt Name1 einen Schluck.", false);
         tasks.add(task815);
 
-        Task task816 = new Task(816, "Für jedes Samsung Produkt im Raum trinkt Name1 einen Schluck", false);
+        Task task816 = new Task(816, "Für jedes Samsung Produkt im Raum trinkt Name1 einen Schluck.", false);
         tasks.add(task816);
 
-        Task task817 = new Task(817, "Die Person, die als letztes steht, muss 8 Schlucke trinken", false);
+        Task task817 = new Task(817, "Die Person, die als letztes steht, muss 8 Schlucke trinken.", false);
         tasks.add(task817);
 
-        Task task818 = new Task(818, "Die drei ältesten Mitspielenden verteilen 4 Schlucke.", false);
+        Task task818 = new Task(818, "Die drei ältesten Mitspielenden verteilen je 3 Schlucke.", false);
         tasks.add(task818);
 
         Task task819 = new Task(819, "Die drei jüngsten Mitspielenden trinken 4 Schlucke.", false);
         tasks.add(task819);
 
-        Task task820 = new Task(820, "Name1: Exe dein Glas, oder poste eine instagram Story mit @spaienapp", false);
+        Task task820 = new Task(820, "Name1: Exe dein Glas, oder poste eine instagram Story mit @spaienapp.", false);
         tasks.add(task820);
 
-        Task task821 = new Task(821, "Alle die gerade weite Boxershorts tragen trinken", false);
+        Task task821 = new Task(821, "Alle die gerade weite Boxershorts tragen trinken.", false);
         tasks.add(task821);
 
-        Task task822 = new Task(822, "Alle die gerade enge Boxershorts tragen trinken", false);
+        Task task822 = new Task(822, "Alle die gerade enge Boxershorts tragen trinken.", false);
         tasks.add(task822);
 
-        Task task823 = new Task(823, "Handyturm! Alle legen ihr Handy mit Internet und voller Lautstärke auf den Tisch. Die Person, die als erstes eine Benachrichtigung erhält muss 3 Schlucke trinken.", false);
+        Task task823 = new Task(823, "Handyturm! Alle legen ihr Handy mit Internet und voller Lautstärke auf den Tisch. Die Person, die als erstes eine Benachrichtigung erhält muss 5 Schlucke trinken.", false);
         tasks.add(task823);
 
         Task task824 = new Task(824, "Name1 muss so viele Shots trinken, wie er/sie innerhalb von 25 Sekunden blinzelt.", false);
         tasks.add(task824);
 
-        Task task825 = new Task(825, "Name1, küsse Name2 auf die nackte Pobacke, oder trinke 3 Schlucke.", false);
+        Task task825 = new Task(825, "Name1: Küsse Name2 auf die nackte Pobacke oder trinke 3 Schlucke.", false);
         tasks.add(task825);
 
         Task task826 = new Task(826, "Spielt: Ich sehe was, was du nicht siehst. Name1 bestimmt das Objekt. Wer es als erstes errät verteilt 5 Schlucke.", false);
@@ -2500,34 +2500,34 @@ public class TaskBuilder {
         Task task829 = new Task(829, "Spielt: Montagsmaler! Name1 malt. Wer es als erstes errät verteit 5 Schlucke.", false);
         tasks.add(task829);
 
-        Task task830 = new Task(830, "Bei wem ist die letzte Dusche am längsten her? Diese Person verteilt 4 Schlucke", false);
+        Task task830 = new Task(830, "Bei wem ist die letzte Dusche am längsten her? Diese Person verteilt 4 Schlucke.", false);
         tasks.add(task830);
 
-        Task task831 = new Task(831, "Bei wem ist die letzte Dusche am längsten her? Diese Person trinkt 3 Schlucke", false);
+        Task task831 = new Task(831, "Bei wem ist die letzte Dusche am längsten her? Diese Person trinkt 3 Schlucke.", false);
         tasks.add(task831);
 
-        Task task832 = new Task(832, "Wer hat als letztes Blutgespendet? Die Person darf 8 Schlucke verteilen.", false);
+        Task task832 = new Task(832, "Wer hat als letztes Blut gespendet? Die Person darf 8 Schlucke verteilen.", false);
         tasks.add(task832);
 
         Task task833 = new Task(833, "Nennt Tages-/Wochenzeitungen. Name1 beginnt.", false);
         tasks.add(task833);
 
-        Task task834 = new Task(834, "Name1 und Name2: Einigt euch wer 3 Schlucke trinken muss", false);
+        Task task834 = new Task(834, "Kopf oder Zahl! KOPF: Name1 trinkt 4, Name2 verteilt 3; ZAHL: Name3 trinkt 4, Name4 verteilt 7. ", false);
         tasks.add(task834);
 
-        Task task835 = new Task(835, "Name1 und Name2: Einigt euch wer 4 Schlucke trinken muss", false);
+        Task task835 = new Task(835, "Kopf oder Zahl! KOPF: Name1 trinkt 3, Name2 verteilt 5; ZAHL: Name3 trinkt 2, Name4 verteilt 6.", false);
         tasks.add(task835);
 
-        Task task836 = new Task(836, "Name1 und Name2: einigt euch wer 5 Schlucke verteilen darf", false);
+        Task task836 = new Task(836, "Kopf oder Zahl! KOPF: Name1 trinkt 5, Name2 verteilt 4; ZAHL: Name3 trinkt 4, Name4 verteilt 5.", false);
         tasks.add(task836);
 
-        Task task837 = new Task(837, "Name1 und Name2: Einigt euch wer 6 Schlucke verteilen darf", false);
+        Task task837 = new Task(837, "Kopf oder Zahl! KOPF: Name1 trinkt 4, Name2 verteilt 6; ZAHL: Name3 trinkt 3, Name4 verteilt 4.", false);
         tasks.add(task837);
 
-        Task task838 = new Task(838, "Name1: Wie oft warst du dieses Jahr schon erkältet? So viele Schlucke trinkt du", false);
+        Task task838 = new Task(838, "Name1: Wie oft warst du dieses Jahr schon erkältet? So viele Schlucke trinkt du.", false);
         tasks.add(task838);
 
-        Task task839 = new Task(839, "Name1: Wie oft warst du in diesem Jahr schon erkältet? So viele Schlucke verteilst du", false);
+        Task task839 = new Task(839, "Name1: Wie oft warst du in diesem Jahr schon erkältet? So viele Schlucke verteilst du.", false);
         tasks.add(task839);
 
         Task task840 = new Task(840, "Die beiden Mitspielenden, welche die leersten Gläser haben exen jetzt!", false);
@@ -2539,7 +2539,7 @@ public class TaskBuilder {
         Task task842 = new Task(842, "Die beiden Mitspielenden, welche die leersten Gläser haben exen jetzt!", false);
         tasks.add(task842);
 
-        Task task843 = new Task(843, "Name1: Für jeden sauber ausgeführten Sit-Up, welchen du in 20 Sekunden schaffst, darfst du 0,5 Schlucke verteilen.Wenn du nichts machst trinke 5 Schlucke.", false);
+        Task task843 = new Task(843, "Name1: Für jeden sauber ausgeführten Sit-Up, welchen du in 20 Sekunden schaffst, darfst du 0,5 Schlucke verteilen.Wenn du nichts machst trinke 4 Schlucke.", false);
         tasks.add(task843);
 
         Task task844 = new Task(844, "Wählt den/die Hygienischte/n unter euch. Die gewählte Person verteilt 5 Schlucke.", false);
@@ -2548,13 +2548,13 @@ public class TaskBuilder {
         Task task845 = new Task(845, "Name1: Wie warm wird es morgen maximal? Name2 guckt nach. Pro Grad Unterschied trinkt Name1 1 Schluck. Richtig: 7 Verteilen.", false);
         tasks.add(task845);
 
-        Task task846 = new Task(846, "Der Mitspielende mit der höchsten Bildschirmzeit (Handy) trinkt 5 Schlucke. Wer sie nicht einsehen kann trinkt 2 Schlucke.", false);
+        Task task846 = new Task(846, "Wer hat die höchste Bildschirmzeit (Handy)? Diese Person trinkt 4 Schlucke. Wer sie nicht einsehen kann trinkt 2 Schlucke.", false);
         tasks.add(task846);
 
-        Task task847 = new Task(847, "Der Mitspielende mit der niedrigsten Bildschirmzeit (Handy) verteilt 5 Schlucke. Wer sie nicht einsehen kann trinkt 2 Schlucke.", false);
+        Task task847 = new Task(847, "Wer hat die niedrigste Bildschirmzeit (Handy)? Diese Person trinkt 4 Schlucke. Wer sie nicht einsehen kann trinkt 2 Schlucke.", false);
         tasks.add(task847);
 
-        Task task848 = new Task(848, "Der Mitspielende mit der höchsten Bildschirmzeit (Handy) verteilt 5 Schlucke. Wer sie nicht einsehen kann trinkt 2 Schlucke.", false);
+        Task task848 = new Task(848, "Wer hat die niedrigste Bildschirmzeit (Handy)? Diese Person verteilt 5 Schlucke. Wer sie nicht einsehen kann trinkt 2 Schlucke.", false);
         tasks.add(task848);
 
         Task task849 = new Task(849, "Pro 10%, die das Oberteil von Name1 aus Baumwolle besteht, darf er/sie 1 Schluck verteilen.", false);
@@ -2572,10 +2572,10 @@ public class TaskBuilder {
         Task task853 = new Task(853, "Name1: Wie viele Praktika hast du in deinem Leben schon gemacht? So viele Schlucke darfst du verteilen (max 8)", false);
         tasks.add(task853);
 
-        Task task854 = new Task(854, "Name1: Wie viele Praktika hast du in deinem Leben schon gemacht? So viele Schlucke trinkt du (max 8", false);
+        Task task854 = new Task(854, "Name1: Wie viele Praktika hast du in deinem Leben schon gemacht? So viele Schlucke trinkt du (max 8)", false);
         tasks.add(task854);
 
-        Task task855 = new Task(855, "Alle die in den letzten zwei Monaten umgezogen sind trinken 4 Schlucke und machen jetzt einen Termin beim Einwohnermeldeamt", false);
+        Task task855 = new Task(855, "Alle die in den letzten sechs Monaten umgezogen sind trinken 4 Schlucke und machen jetzt einen Termin beim Einwohnermeldeamt", false);
         tasks.add(task855);
 
         Task task856 = new Task(856, "Nennt Städte in Sachsen. Name1 beginnt.", false);
@@ -2593,19 +2593,19 @@ public class TaskBuilder {
         Task task860 = new Task(860, "Nennt Flüsse in Frankreich. Name1 beginnt.", false);
         tasks.add(task860);
 
-        Task task861 = new Task(861, "Name1, pro Teil, welches du jetzt aus dem Gefrierschrank unverpackt in dein Getränk packst, darfst du 1 Schluck verteilen. (Max 8)", false);
+        Task task861 = new Task(861, "Name1: Pro Teil, welches du jetzt aus dem Gefrierschrank unverpackt in dein Getränk packst, darfst du 1 Schluck verteilen. (Max 8)", false);
         tasks.add(task861);
 
-        Task task862 = new Task(862, "Alle die BMW fahren trinken", false);
+        Task task862 = new Task(862, "Alle die BMW fahren trinken.", false);
         tasks.add(task862);
 
-        Task task863 = new Task(863, "Alle die AUDI fahren trinken", false);
+        Task task863 = new Task(863, "Alle die AUDI fahren trinken.", false);
         tasks.add(task863);
 
-        Task task864 = new Task(864, "Alle die Skoda fahren trinken", false);
+        Task task864 = new Task(864, "Alle die Skoda fahren trinken.", false);
         tasks.add(task864);
 
-        Task task865 = new Task(865, "Alle die eine Bahncard haben trinken 2 Schlucke", false);
+        Task task865 = new Task(865, "Alle die eine Bahncard haben trinken 3 Schlucke.", false);
         tasks.add(task865);
 
         Task task866 = new Task(866, "Alle die eine Bahncard haben verteilen 5 Schlucke.", false);
@@ -2614,10 +2614,10 @@ public class TaskBuilder {
         Task task867 = new Task(867, "Name1 und Name2 verteilen jeweils so viele Schlucke, wie sie diese Woche in einer Gastronomie gegessen, oder Essen bestellt haben", false);
         tasks.add(task867);
 
-        Task task868 = new Task(868, "Name1: Bei wem wärst du weniger böse, wenn er/sie mit deiner/m Schwester/Bruder schlafen würde:  Name2 oder Name3? Die gewählte Person verteilt 6 Schlucke.", false);
+        Task task868 = new Task(868, "Name1: Bei wem wärst du weniger böse, wenn er/sie mit deiner/m Schwester/Bruder schlafen würde: Name2 oder Name3? Die gewählte Person verteilt 6 Schlucke.", false);
         tasks.add(task868);
 
-        Task task869 = new Task(869, "Name1: Bei wem wärst du weniger böse, wenn er/sie mit deiner/m Schwester/Bruder schlafen würde:  Name2 oder Name3? Die gewählte Person verteilt 6 Schlucke.", false);
+        Task task869 = new Task(869, "Name1: Bei wem wärst du weniger böse, wenn er/sie mit deiner/m Schwester/Bruder schlafen würde: Name2 oder Name3? Die gewählte Person verteilt 6 Schlucke.", false);
         tasks.add(task869);
 
         Task task870 = new Task(870, "Name1 muss so viele Schlucke trinken, wei Name2 sich jetzt auf den nackten Arsch haut. (max 8)", false);
@@ -2626,22 +2626,22 @@ public class TaskBuilder {
         Task task871 = new Task(871, "Nennt Kategorien auf Pornoseiten. Name1 beginnt.", false);
         tasks.add(task871);
 
-        Task task872 = new Task(872, "Name1: Buchstabiere den Namen von Name2. Für jeden richtigen Buchstaben musst du 1 Schluck trinken", false);
+        Task task872 = new Task(872, "Name1: Buchstabiere den Namen von Name2. Für jeden richtigen Buchstaben musst du 1 Schluck trinken.", false);
         tasks.add(task872);
 
-        Task task873 = new Task(873, "Name1: Buchstabiere den Namen von Name2. Für jeden richtigen Buchstaben darfst du 1 Schluck verteilen", false);
+        Task task873 = new Task(873, "Name1: Buchstabiere den Namen von Name2. Für jeden richtigen Buchstaben darfst du 1 Schluck verteilen.", false);
         tasks.add(task873);
 
         Task task874 = new Task(874, "Der letzte der die Schulter von Name1 berührt muss 6 Schlucke trinken.", false);
         tasks.add(task874);
 
-        Task task875 = new Task(875, "Der letzte der im Schneidersitz sitzt, muss 5 Schlucke trinken", false);
+        Task task875 = new Task(875, "Der letzte der im Schneidersitz sitzt, muss 5 Schlucke trinken.", false);
         tasks.add(task875);
 
-        Task task876 = new Task(876, "Der letzte der steht muss exen", false);
+        Task task876 = new Task(876, "Der Letzte der steht muss exen", false);
         tasks.add(task876);
 
-        Task task877 = new Task(877, "Der letzte im Raum muss exen", false);
+        Task task877 = new Task(877, "Der Letzte im Raum muss exen", false);
         tasks.add(task877);
 
         Task task878 = new Task(878, "Name1: Im Restaurant: bei 30€ Rechnung und gutem Service, wie viel Trinkgeld würdest du geben? Pro Euro 1 trinken (max 10)", false);
@@ -2665,49 +2665,49 @@ public class TaskBuilder {
         Task task883 = new Task(883, "Stimmt ab! Wer gibt im Restaurant am meisten Trinkgeld? Die gewählte Person darf 7 Schlucke verteilen.", false);
         tasks.add(task883);
 
-        Task task884 = new Task(884, "Nennt Dinge die man in der Küche und im Bett sagen kann. Name1 beginnt", false);
+        Task task884 = new Task(884, "Nennt Dinge die man in der Küche und im Bett sagen kann. Name1 beginnt.", false);
         tasks.add(task884);
 
-        Task task885 = new Task(885, "Nennt Dinge die man auf dem Friedhof und beim Frisör sagen kann. Name1 beginnt", false);
+        Task task885 = new Task(885, "Nennt Dinge die man auf dem Friedhof und beim Frisör sagen kann. Name1 beginnt.", false);
         tasks.add(task885);
 
-        Task task886 = new Task(886, "Nennt Dinge die man im Freibad und im Bett sagen kann. Name1 beginnt", false);
+        Task task886 = new Task(886, "Nennt Dinge die man im Freibad und im Bett sagen kann. Name1 beginnt.", false);
         tasks.add(task886);
 
-        Task task887 = new Task(887, "Nennt Dinge die man auf dem Fußballplatz und bei der AFD sagen kann. Name1 beginnt", false);
+        Task task887 = new Task(887, "Nennt Dinge die man auf dem Fußballplatz und bei der AFD sagen kann. Name1 beginnt.", false);
         tasks.add(task887);
 
-        Task task888 = new Task(888, "Nennt Dinge die man auf der Baustelle und im Bett sagen kann. Name1 beginnt", false);
+        Task task888 = new Task(888, "Nennt Dinge die man auf der Baustelle und im Bett sagen kann. Name1 beginnt.", false);
         tasks.add(task888);
 
-        Task task889 = new Task(889, "Nennt Dinge, die man im Fitnessstudio und im Bett sagen kann. Name1 beginnt", false);
+        Task task889 = new Task(889, "Nennt Dinge, die man im Fitnessstudio und im Bett sagen kann. Name1 beginnt.", false);
         tasks.add(task889);
 
-        Task task890 = new Task(890, "Nennt Dinge die man beim Sport und beim putzen sagen kann. Name1 beginnt", false);
+        Task task890 = new Task(890, "Nennt Dinge die man beim Sport und beim putzen sagen kann. Name1 beginnt.", false);
         tasks.add(task890);
 
-        Task task891 = new Task(891, "Nennt Dinge die man beim Autofahren und im Bett sagen kann. Name1 beginnt", false);
+        Task task891 = new Task(891, "Nennt Dinge die man beim Autofahren und im Bett sagen kann. Name1 beginnt.", false);
         tasks.add(task891);
 
-        Task task892 = new Task(892, "Nennt Dinge die man beim Arzt und beim Frisör sagen kann. Name1 beginnt", false);
+        Task task892 = new Task(892, "Nennt Dinge die man beim Arzt und beim Frisör sagen kann. Name1 beginnt.", false);
         tasks.add(task892);
 
-        Task task893 = new Task(893, "Nennt Dinge die man beim Arzt und in der Werkstatt sagen kann. Name1 beginnt", false);
+        Task task893 = new Task(893, "Nennt Dinge die man beim Arzt und in der Werkstatt sagen kann. Name1 beginnt.", false);
         tasks.add(task893);
 
-        Task task894 = new Task(894, "Nennt Dinge die machen beim shoppen und im Bett sagen kann", false);
+        Task task894 = new Task(894, "Nennt Dinge die man beim shoppen und im Bett sagen kann.", false);
         tasks.add(task894);
 
         Task task895 = new Task(895, "Name1: Nenne die Geheimzahl deines Kontos, oder trinke 4 Schlucke.", false);
         tasks.add(task895);
 
-        Task task896 = new Task(896, "Name1: Für jeden WhatsApp Kontakt dem du jetzt schreibst, dass er sich SPAIEN downloaden soll, darfst du 2 Schlucke verteilen (max 4 Leute)", false);
+        Task task896 = new Task(896, "Name1: Für jeden WhatsApp Kontakt dem du jetzt schreibst, dass er/sie sich SPAIEN downloaden soll, darfst du 2 Schlucke verteilen (max 4 Leute)", false);
         tasks.add(task896);
 
-        Task task897 = new Task(897, "Name1: Für jeden WhatsApp Kontakt dem du jetzt schreibst, dass er sich SPAIEN downloaden soll, darfst du 2 Schlucke verteilen (max 4 Leute)", false);
+        Task task897 = new Task(897, "Name1: Für jeden WhatsApp Kontakt dem du jetzt schreibst, dass er/sie sich SPAIEN downloaden soll, darfst du 2 Schlucke verteilen (max 4 Leute)", false);
         tasks.add(task897);
 
-        Task task898 = new Task(898, "Name1: Für jeden WhatsApp Kontakt dem du jetzt schreibst, dass er sich SPAIEN downloaden soll, darfst du 2 Schlucke verteilen (max 4 Leute)", false);
+        Task task898 = new Task(898, "Name1: Für jeden WhatsApp Kontakt dem du jetzt schreibst, dass er/sie sich SPAIEN downloaden soll, darfst du 2 Schlucke verteilen (max 4 Leute)", false);
         tasks.add(task898);
 
         Task task899 = new Task(899, "Name1: Sage einen Buchstaben. Name2: Gib diesen Buchstaben bei WhatsApp ein. Ruf die erste Person die erscheint an und erzähl ihr von SPAIEN, oder trinke 8 Schlucke. Gemacht: 10 verteilen.", false);
@@ -2722,7 +2722,7 @@ public class TaskBuilder {
         Task task902 = new Task(902, "Alle die diesen Monat ein verschreibungspflichtiges Medikament genommen haben verteilen 3 Schlucke.", false);
         tasks.add(task902);
 
-        Task task903 = new Task(903, "Stimmt ab! Wer ist der/die Sexistischte unter euch? Die gewählte Person schämt sich und trinkt 7 Schlucke", false);
+        Task task903 = new Task(903, "Stimmt ab! Wer ist der/die Sexistischte unter euch? Die gewählte Person schämt sich und trinkt 7 Schlucke.", false);
         tasks.add(task903);
 
         Task task904 = new Task(904, "Name1: Wie viele Kondome hast du dabei? Für jedes 1 Schluck trinken. Keins? 4 Schlucke trinken!", false);
@@ -2740,112 +2740,112 @@ public class TaskBuilder {
         Task task908 = new Task(908, "Name1: Pro Stern, den du SPAIEN jetzt im Appstore gibst, darfst du 1 Schluck verteilen. Schon bewertet: 5 verteilen.", false);
         tasks.add(task908);
 
-        Task task909 = new Task(909, "Name1 und Name2 dürfen so viele Schlucke verteilen wie sie Geschwister haben", false);
+        Task task909 = new Task(909, "Name1 und Name2 dürfen so viele Schlucke verteilen wie sie Geschwister haben.", false);
         tasks.add(task909);
 
-        Task task910 = new Task(910, "default", false);
+        Task task910 = new Task(910, "Name1: Pro Finger, den du dir jetzt komplett in den Mund steckst, darfst du 1 Schluck verteilen.", false);
         tasks.add(task910);
 
-        Task task911 = new Task(911, "default", false);
+        Task task911 = new Task(911, "Name1: Pro Finger, den du dir jetzt komplett in den Mund steckst, darfst du 1 Schluck verteilen.", false);
         tasks.add(task911);
 
-        Task task912 = new Task(912, "default", false);
+        Task task912 = new Task(912, "Name1: Pro Finger, den du dir jetzt komplett in den Mund steckst, darfst du 1 Schluck verteilen.", false);
         tasks.add(task912);
 
-        Task task913 = new Task(913, "default", false);
+        Task task913 = new Task(913, "Name1: Halte die Luft an! Name2 stoppt die Zeit. Pro 10 Sekunden darf Name1 1 Schluck verteilen. (Max. 10)", false);
         tasks.add(task913);
 
-        Task task914 = new Task(914, "default", false);
+        Task task914 = new Task(914, "Name1: Halte die Luft an! Name2 stoppt die Zeit. Pro 10 Sekunden darf Name1 1 Schluck verteilen. (Max. 10)", false);
         tasks.add(task914);
 
-        Task task915 = new Task(915, "default", false);
+        Task task915 = new Task(915, "Name1 und Name2: Wer kann länger die Luft anhalten? Der/Die Gewinnende verteilt 6 Schlucke.", false);
         tasks.add(task915);
 
-        Task task916 = new Task(916, "default", false);
+        Task task916 = new Task(916, "Name1 und Name2: Wer kann länger die Luft anhalten? Der/Die Gewinnende verteilt 6 Schlucke.", false);
         tasks.add(task916);
 
-        Task task917 = new Task(917, "default", false);
+        Task task917 = new Task(917, "Name1 und Name2: Wer kann länger die Luft anhalten? Der/Die Gewinnende verteilt 6 Schlucke.", false);
         tasks.add(task917);
 
-        Task task918 = new Task(918, "default", false);
+        Task task918 = new Task(918, "Wer wäre das beste husband/wife material? Stimmt ab! Die Gewählte Person verteilt 6 Schlucke.", false);
         tasks.add(task918);
 
-        Task task919 = new Task(919, "default", false);
+        Task task919 = new Task(919, "Wer wäre das beste husband/wife material? Stimmt ab! Die Gewählte Person trinkt für jede erhaltene Stimme 1 Schluck.", false);
         tasks.add(task919);
 
-        Task task920 = new Task(920, "default", false);
+        Task task920 = new Task(920, "Name1 und Name2: Wie oft habt ihr diese Woche Sport gemacht? So viele Schlucke dürft ihr je verteilen.", false);
         tasks.add(task920);
 
-        Task task921 = new Task(921, "default", false);
+        Task task921 = new Task(921, "Name1 und Name2: Wer hat diese Woche häufiger Sport gemacht? Diese Person darf 5 Schlucke verteilen.", false);
         tasks.add(task921);
 
-        Task task922 = new Task(922, "default", false);
+        Task task922 = new Task(922, "Nennt demokratisch gewählte Staatsoberhäupter inkl. ihrer Staaten. Name1 beginnt.", false);
         tasks.add(task922);
 
-        Task task923 = new Task(923, "default", false);
+        Task task923 = new Task(923, "Alle die gerade einen Mundschutz dabei haben verteilen 4 Schlucke.", false);
         tasks.add(task923);
 
-        Task task924 = new Task(924, "default", false);
+        Task task924 = new Task(924, "Alle die gerade keinen Mundschutz dabei haben trinken 3 Schlucke.", false);
         tasks.add(task924);
 
-        Task task925 = new Task(925, "default", false);
+        Task task925 = new Task(925, "Jeder führt eine Art sich zu dehnen vor. Die Person die keine mehr kennt trinkt 3 Schlucke. Name1 beginnt.", false);
         tasks.add(task925);
 
-        Task task926 = new Task(926, "default", false);
+        Task task926 = new Task(926, "Nennt Möglichkeiten weniger Plastik zu benutzen. Name1 beginnt.", false);
         tasks.add(task926);
 
-        Task task927 = new Task(927, "default", false);
+        Task task927 = new Task(927, "Nennt Möglichkeiten weniger Wasser zu verbrauchen. Name1 beginnt.", false);
         tasks.add(task927);
 
-        Task task928 = new Task(928, "default", false);
+        Task task928 = new Task(928, "Nennt Möglichkeiten weniger CO2 zu produzieren. Name1 beginnt.", false);
         tasks.add(task928);
 
-        Task task929 = new Task(929, "default", false);
+        Task task929 = new Task(929, "Nennt Mögchkeiten Energie zu sparen. Name1 beginnt.", false);
         tasks.add(task929);
 
-        Task task930 = new Task(930, "default", false);
+        Task task930 = new Task(930, "Name1 und Name2: Wer war dieses Jahr häufiger im Museum? Diese Person verteilt 5 Schlucke.", false);
         tasks.add(task930);
 
-        Task task931 = new Task(931, "default", false);
+        Task task931 = new Task(931, "Name1 und Name2: Wer war dieses Jahr häufiger in der Kirche? Diese Person verteilt 4 Schlucke.", false);
         tasks.add(task931);
 
-        Task task932 = new Task(932, "default", false);
+        Task task932 = new Task(932, "Die Person mit dem besten Abi Schnitt verteilt 5 Schlucke.", false);
         tasks.add(task932);
 
-        Task task933 = new Task(933, "default", false);
+        Task task933 = new Task(933, "Die Person mit dem schlechtesten Abi Schnitt verteilt 5 Schlucke.", false);
         tasks.add(task933);
 
-        Task task934 = new Task(934, "default", false);
+        Task task934 = new Task(934, "Stimmt ab! Wer ist der klicheehaft männlichste unter euch? Diese Person ext.", false);
         tasks.add(task934);
 
-        Task task935 = new Task(935, "default", false);
+        Task task935 = new Task(935, "Name1 und Name2: Wer hat heute mehr gegessen? Diese Person verteilt 4 Schlucke.", false);
         tasks.add(task935);
 
-        Task task936 = new Task(936, "default", false);
+        Task task936 = new Task(936, "Name1 und Name2: Wer hat heute weniger gegessen? Diese Person trinkt 4 Schlucke.", false);
         tasks.add(task936);
 
-        Task task937 = new Task(937, "default", false);
+        Task task937 = new Task(937, "Name1 und Name2: Wer hat heute mehr nichtalkoholische Getränke getrunken? Diese Person verteilt 6 Schlucke.", false);
         tasks.add(task937);
 
-        Task task938 = new Task(938, "default", false);
+        Task task938 = new Task(938, "Alle, die sich gerade weiter als 200km von ihrem Heimatort befinden trinken 3 Schlucke.", false);
         tasks.add(task938);
 
-        Task task939 = new Task(939, "default", false);
+        Task task939 = new Task(939, "Nennt Drogerien. Name1 beginnt.", false);
         tasks.add(task939);
 
-        Task task940 = new Task(940, "default", false);
+        Task task940 = new Task(940, "Nennt Beeren. Name1 beginnt.", false);
         tasks.add(task940);
 
-        Task task941 = new Task(941, "default", false);
+        Task task941 = new Task(941, "Nennt Nüsse. Name1 beginnt.", false);
         tasks.add(task941);
 
-        Task task942 = new Task(942, "default", false);
+        Task task942 = new Task(942, "Name1 setzt 5 Folien lang aus!", false);
         tasks.add(task942);
 
-        Task task943 = new Task(943, "default", false);
+        Task task943 = new Task(943, "Name1 setzt 5 Folien lang aus!", false);
         tasks.add(task943);
 
-        Task task944 = new Task(944, "default", false);
+        Task task944 = new Task(944, "Nennt Sprichwörter. Name1 beginnt.", false);
         tasks.add(task944);
 
         Task task945 = new Task(945, "default", false);
@@ -3073,7 +3073,7 @@ public class TaskBuilder {
         Task task10530 = new Task(10530, "REGELAUFLÖSUNG \n Es wird wieder gesagt, was gedacht wird.", false);
         tasks.add(task10530);
 
-        Task task10534 = new Task(10534, "REGELAUFLÖSUNG \n Stoppt das Starren!", false);
+        Task task10534 = new Task(10534, "REGELAUFLÖSUNG \n Stoppt das Singen!", false);
         tasks.add(task10534);
 
         Task task10537 = new Task(10537, "REGELAUFLÖSUNG \n Die Tiergeräusche sind beendet.", false);
